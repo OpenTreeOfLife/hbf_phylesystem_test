@@ -9,6 +9,9 @@ import stat
 import sys
 import time
 
+from peyotl.nexson_validation.phylografter_workaround import workaround_phylografter_export_diffs
+from peyotl import convert_nexson_format, write_as_json
+
 class LockPolicy(object):
     MAX_NUM_SLEEP_IN_WAITING_FOR_LOCK = os.environ.get('MAX_NUM_SLEEP_IN_WAITING_FOR_LOCK', 100)
     try:
@@ -197,6 +200,12 @@ def download_nexson_from_phylografter(paths, download_db, lock_policy):
             er = json.loads(results)
         else:
             raise RuntimeError('Non gzipped response, but not a string is:', results)
+        TMP_PATH = '.tmpnexson'
+        workaround_phylografter_export_diffs(er, TMP_PATH)
+        with codecs.open(TMP_PATH, 'rU', encoding='utf-8') as tmpout:
+            er = json.load(tmpout)
+        er = convert_nexson_format(er, '1.2', sort_arbitrary=True)
+        write_as_json(er, TMP_PATH)
         should_write = False
         if not os.path.exists(nexson_path):
             should_write = True
@@ -205,7 +214,7 @@ def download_nexson_from_phylografter(paths, download_db, lock_policy):
             if prev_content != er:
                 should_write = True
         if should_write:
-            store_state_JSON(er, nexson_path)
+            os.rename(TMP_PATH, nexson_path)
         if download_db is not None:
             try:
                 download_db['studies'].remove(int(study))
@@ -217,6 +226,29 @@ def download_nexson_from_phylografter(paths, download_db, lock_policy):
     finally:
         lock_policy.remove_lock()
     return True
+
+study_list = ['10', '1019', '1038', 
+              '11', '112', '115', '116', 
+              '12', '1276', 
+              '13', '1342', '1356',
+              '144', '1456', '1485',
+              '152', '1568', '1570', '1571', '1572', '1573', '1575', 
+                     '1576', '1578', '1579', '1581', '1583', '1584',
+              '1691', 
+              '17', '1793',
+              '1804', '181', '1821',
+              '1926', '1944', '1959', '1971', '1975',
+              '200', '2011', '2026', '2080', '2084',
+              '224', '225', '229', '230', '2317', '232', '233',
+              '24', '25', '2539', '2686', '28', '284',
+              '314', '329', '396', '398',
+              '41', '438',
+              '53', '562', '584',
+              '626', '649',
+              '704', '709', '710', '711', '712', '715', '717', '719', '727', '787',
+              '82',
+              '9', '918', '928', '932', '934', '99',
+              ]
 
 if __name__ == '__main__':
     if '-h' in sys.argv:
@@ -253,6 +285,8 @@ If other arguments aree supplied, it should be the study #'s to be downloaded.
     while len(to_download) > 0:
         n = to_download.pop(0)
         study = str(n)
+        if study not in study_list:
+            continue
         paths = get_processing_paths_from_prefix(study, **dd)
         if not download_nexson_from_phylografter(paths, download_db, lock_policy):
             sys.exit('NexSON "%s" could not be refreshed\n' % paths['nexson'])
