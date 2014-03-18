@@ -12,7 +12,7 @@
 "xsd": "http://www.w3.org/2001/XMLSchema#", 
 "xsi": "http://www.w3.org/2001/XMLSchema-instance"
 }, 
-"^bogus_timestamp": "2014-03-18T15:42:31.202049", 
+"^bogus_timestamp": "2014-03-18T15:42:38.433588", 
 "^ot:curatorName": "Rick Ree", 
 "^ot:focalClade": 177637, 
 "^ot:otusElementOrder": [
