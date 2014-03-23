@@ -1,0 +1,50 @@
+{
+"nexml": {
+"@generator": "Open Tree API", 
+"@id": "study", 
+"@nexml2json": "1.2.1", 
+"@nexmljson": "http://purl.org/opentree/nexson", 
+"@version": "0.9", 
+"@xmlns": {
+"$": "http://www.nexml.org/2009", 
+"nex": "http://www.nexml.org/2009", 
+"ot": "http://purl.org/opentree-terms#", 
+"xhtml": "http://www.w3.org/1999/xhtml/vocab#", 
+"xsd": "http://www.w3.org/2001/XMLSchema#", 
+"xsi": "http://www.w3.org/2001/XMLSchema-instance"
+}, 
+"^ot:curatorName": "", 
+"^ot:dataDeposit": {
+"@href": ""
+}, 
+"^ot:focalClade": null, 
+"^ot:focalCladeOTTTaxonName": "", 
+"^ot:otusElementOrder": [
+"otus1"
+], 
+"^ot:studyId": "o2731", 
+"^ot:studyPublication": {
+"@href": ""
+}, 
+"^ot:studyPublicationReference": "", 
+"^ot:studyYear": "", 
+"^ot:treesElementOrder": [
+"trees1"
+], 
+"^xhtml:license": {
+"@href": "http://creativecommons.org/publicdomain/zero/1.0/"
+}, 
+"otusById": {
+"otus1": {
+"otuById": {}
+}
+}, 
+"treesById": {
+"trees1": {
+"@otus": "otus1", 
+"^ot:treeElementOrder": [], 
+"treeById": {}
+}
+}
+}
+}
