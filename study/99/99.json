@@ -83,7 +83,8 @@
 "data": [
 "^acount", 
 "^ot:agents", 
-"^ot:annotationEvents"
+"^ot:annotationEvents", 
+"^zcount"
 ], 
 "refersTo": {
 "@idref": "study"
@@ -120,7 +121,7 @@
 "^ot:treesElementOrder": [
 "trees99"
 ], 
-"^zcount": 4, 
+"^zcount": 5, 
 "otusById": {
 "otus99": {
 "otuById": {
