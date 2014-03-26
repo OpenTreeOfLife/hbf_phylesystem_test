@@ -12,11 +12,11 @@
 "xsd": "http://www.w3.org/2001/XMLSchema#", 
 "xsi": "http://www.w3.org/2001/XMLSchema-instance"
 }, 
-"^bogus_timestamp": "2014-03-19T01:19:09.619794", 
+"^bogus_timestamp": "2014-03-26T04:11:37.969604", 
 "^ot:agents": {
 "agent": [
 {
-"@description": "validator of NexSON constraints as well as constraints that would allow a study to be imported into the Open Tree of Life's phylogenetic synthesis tools", 
+"@description": "Open Tree NexSON validation", 
 "@id": "peyotl-validator", 
 "@name": "api.opentreeoflife.org/validate", 
 "@url": "https://github.com/OpenTreeOfLife/peyotl", 
@@ -58,7 +58,7 @@
 "otherProperty": [
 {
 "name": "pythonVersion", 
-"value": "2.7.5+"
+"value": "2.7.3"
 }, 
 {
 "name": "pythonImplementation", 
@@ -66,61 +66,6 @@
 }
 ]
 }
-}
-]
-}, 
-"^ot:annotationEvents": {
-"annotation": [
-{
-"@dateCreated": "2014-03-19T01:19:09.926208", 
-"@description": "validator of NexSON constraints as well as constraints that would allow a study to be imported into the Open Tree of Life's phylogenetic synthesis tools", 
-"@id": "ae79316a34-af04-11e3-8811-5891cf52fe1d", 
-"@passedChecks": true, 
-"@preserve": false, 
-"@wasAssociatedWithAgentId": "peyotl-validator", 
-"message": [
-{
-"@code": "UNRECOGNIZED_KEY", 
-"@severity": "WARNING", 
-"data": [
-"bogus_timestamp"
-], 
-"refersTo": {
-"@idref": "study"
-}
-}, 
-{
-"@code": "MISSING_OPTIONAL_KEY", 
-"@severity": "WARNING", 
-"data": [
-"ot:dataDeposit"
-], 
-"refersTo": {
-"@idref": "study"
-}
-}, 
-{
-"@code": "MISSING_OPTIONAL_KEY", 
-"@severity": "WARNING", 
-"data": [
-"@xsi:type"
-], 
-"refersTo": {
-"@idref": "tree10"
-}
-}, 
-{
-"@code": "MISSING_OPTIONAL_KEY", 
-"@severity": "WARNING", 
-"data": [
-"ot:branchLengthTimeUnit", 
-"ot:inGroupClade"
-], 
-"refersTo": {
-"@idref": "tree10"
-}
-}
-]
 }
 ]
 }, 
