@@ -69,6 +69,1309 @@
 }
 ]
 }, 
+"^ot:annotationEvents": {
+"annotation": [
+{
+"@description": "Open Tree NexSON validation", 
+"@passedChecks": true, 
+"@preserve": false, 
+"@wasAssociatedWithAgentId": "peyotl-validator", 
+"message": [
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node100"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node106"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node107"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node108"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node111"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node112"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node113"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node114"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node116"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node117"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node118"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node120"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node121"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node122"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node125"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node126"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node127"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node128"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node131"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node132"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node134"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node135"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node142"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node143"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node144"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node145"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node146"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node147"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node148"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node161"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node162"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node163"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node166"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node167"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node168"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node170"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node171"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node172"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node175"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node176"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node177"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node180"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node181"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node182"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node185"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node186"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node188"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node189"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node19"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node192"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node193"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node194"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node199"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node20"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node200"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node201"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node202"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node205"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node206"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node207"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node208"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node213"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node214"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node215"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node218"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node219"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node22"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node220"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node224"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node225"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node226"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node227"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node23"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node232"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node233"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node234"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node237"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node238"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node239"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node24"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node242"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node243"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node244"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node247"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node248"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node249"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node25"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node250"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node251"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node29"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node30"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node31"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node32"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node36"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node37"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node38"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node39"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node43"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node44"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node45"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node46"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node51"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node52"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node53"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node54"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node55"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node57"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node58"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node63"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node64"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node65"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node66"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node67"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node70"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node71"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node72"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node86"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node87"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node88"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node89"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node90"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node92"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node93"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node94"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node96"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node97"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:ottTaxonName"
+], 
+"refersTo": {
+"@idref": "node99"
+}
+}, 
+{
+"@code": "UNRECOGNIZED_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^bogus_timestamp", 
+"^ot:agents"
+], 
+"refersTo": {
+"@idref": "study"
+}
+}, 
+{
+"@code": "MISSING_OPTIONAL_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:branchLengthTimeUnit"
+], 
+"refersTo": {
+"@idref": "tree1"
+}
+}
+]
+}
+]
+}, 
 "^ot:curatorName": "Rick Ree", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S10149"
@@ -84,6 +1387,7 @@
 }, 
 "^ot:studyPublicationReference": "Tank, David C., and Michael J. Donoghue. 2010. Phylogeny and Phylogenetic Nomenclature of the Campanulidae based on an Expanded Sample of Genes and Taxa. Systematic Botany 35, no. 2 (6): 425-441. doi:10.1600/036364410791638306.", 
 "^ot:studyYear": 2010, 
+"^ot:testCount": 1, 
 "^ot:treesElementOrder": [
 "trees9"
 ], 
