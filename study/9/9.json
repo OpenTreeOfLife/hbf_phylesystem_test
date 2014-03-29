@@ -159,22 +159,22 @@
 {
 "@filename": "test.sh", 
 "@size": 990, 
-"@sourceForTree": "", 
 "@type": "", 
 "@url": "/curator/supporting_files/download/supporting_files.doc.b1d543432eff6f90.746573742e7368.sh", 
 "description": {
 "$": "This is a test."
-}
+}, 
+"sourceForTree": []
 }, 
 {
 "@filename": "rocket-critters-color.jpg", 
 "@size": 97826, 
-"@sourceForTree": "", 
 "@type": "", 
 "@url": "/curator/supporting_files/download/supporting_files.doc.aacd45f008aba585.726f636b65742d63726974746572732d636f6c6f722e6a7067.jpg", 
 "description": {
 "$": "Look at them go!"
-}
+}, 
+"sourceForTree": []
 }, 
 {
 "@filename": "avian_ovomucoids.nex", 
@@ -182,7 +182,7 @@
 "@type": "nexus", 
 "@url": "", 
 "description": {
-"$": ""
+"$": "This data file supports multiple trees!"
 }, 
 "sourceForTree": [
 {
