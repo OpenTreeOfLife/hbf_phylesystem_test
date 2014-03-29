@@ -175,6 +175,23 @@
 "description": {
 "$": "Look at them go!"
 }
+}, 
+{
+"@filename": "avian_ovomucoids.nex", 
+"@size": "", 
+"@type": "nexus", 
+"@url": "", 
+"description": {
+"$": ""
+}, 
+"sourceForTree": [
+{
+"$": "g0n0"
+}, 
+{
+"$": "g0n1"
+}
+]
 }
 ]
 }
@@ -206,7 +223,8 @@
 }, 
 "^ot:notIntendedForSynthesis": false, 
 "^ot:otusElementOrder": [
-"otus9"
+"otus9", 
+"t0"
 ], 
 "^ot:studyId": "9", 
 "^ot:studyPublication": {
@@ -217,7 +235,8 @@
 "^ot:tag": [], 
 "^ot:testCount": 5, 
 "^ot:treesElementOrder": [
-"trees9"
+"trees9", 
+"g0"
 ], 
 "otusById": {
 "otus9": {
@@ -858,9 +877,3065 @@
 "^ot:ottId": 532765
 }
 }
+}, 
+"t0": {
+"@label": "Untitled TAXA Block 1", 
+"otuById": {
+"t0n0": {
+"^ot:originalLabel": "Struthio camelus"
+}, 
+"t0n1": {
+"^ot:originalLabel": "Rhea americana"
+}, 
+"t0n10": {
+"^ot:originalLabel": "Phalacrocorax sulcirostris"
+}, 
+"t0n11": {
+"^ot:originalLabel": "Anhinga novaehollandeae"
+}, 
+"t0n12": {
+"^ot:originalLabel": "Nycticorax nycticorax"
+}, 
+"t0n13": {
+"^ot:originalLabel": "Chauna chavaria"
+}, 
+"t0n14": {
+"^ot:originalLabel": "Anseranas semipalmata"
+}, 
+"t0n15": {
+"^ot:originalLabel": "Dendrocygna arcuata"
+}, 
+"t0n16": {
+"^ot:originalLabel": "Dendrocygna autumnalis"
+}, 
+"t0n17": {
+"^ot:originalLabel": "Dendrocygna eytoni d"
+}, 
+"t0n18": {
+"^ot:originalLabel": "Dendrocygna eytoni e"
+}, 
+"t0n19": {
+"^ot:originalLabel": "Dendrocygna viduata"
+}, 
+"t0n2": {
+"^ot:originalLabel": "Pterocnemia pennata"
+}, 
+"t0n20": {
+"^ot:originalLabel": "Coscoroba coscoroba"
+}, 
+"t0n21": {
+"^ot:originalLabel": "Cygnus atratus"
+}, 
+"t0n22": {
+"^ot:originalLabel": "Goose"
+}, 
+"t0n23": {
+"^ot:originalLabel": "Anser indicus"
+}, 
+"t0n24": {
+"^ot:originalLabel": "Branta canadensis"
+}, 
+"t0n25": {
+"^ot:originalLabel": "Cereopsis novaehollandiae"
+}, 
+"t0n26": {
+"^ot:originalLabel": "Chloephaga picta"
+}, 
+"t0n27": {
+"^ot:originalLabel": "Duck"
+}, 
+"t0n28": {
+"^ot:originalLabel": "Anas platyrhynchos"
+}, 
+"t0n29": {
+"^ot:originalLabel": "Megapodius freycinet"
+}, 
+"t0n3": {
+"^ot:originalLabel": "Casuarius casuarius"
+}, 
+"t0n30": {
+"^ot:originalLabel": "Leipoa ocellata"
+}, 
+"t0n31": {
+"^ot:originalLabel": "Ortalis vetula"
+}, 
+"t0n32": {
+"^ot:originalLabel": "Penelope jacquacu"
+}, 
+"t0n33": {
+"^ot:originalLabel": "Penelope superciliaris"
+}, 
+"t0n34": {
+"^ot:originalLabel": "Bonasa umbellus"
+}, 
+"t0n35": {
+"^ot:originalLabel": "Tympanuchus cupido"
+}, 
+"t0n36": {
+"^ot:originalLabel": "Oreortyx pictus"
+}, 
+"t0n37": {
+"^ot:originalLabel": "Callipepla squamata n"
+}, 
+"t0n38": {
+"^ot:originalLabel": "Callipepla squamata s"
+}, 
+"t0n39": {
+"^ot:originalLabel": "Lophortyx californicus"
+}, 
+"t0n4": {
+"^ot:originalLabel": "Dromaius novaehollandiae"
+}, 
+"t0n40": {
+"^ot:originalLabel": "Colinus virginianus"
+}, 
+"t0n41": {
+"^ot:originalLabel": "Cyrtonyx montezumae l"
+}, 
+"t0n42": {
+"^ot:originalLabel": "Cyrtonyx montezumae s"
+}, 
+"t0n43": {
+"^ot:originalLabel": "Alectoris chukar"
+}, 
+"t0n44": {
+"^ot:originalLabel": "Alectoris rufa"
+}, 
+"t0n45": {
+"^ot:originalLabel": "Francolinus afer"
+}, 
+"t0n46": {
+"^ot:originalLabel": "Francolinus erckelii"
+}, 
+"t0n47": {
+"^ot:originalLabel": "Francolinus coqui v"
+}, 
+"t0n48": {
+"^ot:originalLabel": "Francolinus coqui a"
+}, 
+"t0n49": {
+"^ot:originalLabel": "Francolinus francolinus a"
+}, 
+"t0n5": {
+"^ot:originalLabel": "Nothoprocta cinerascens"
+}, 
+"t0n50": {
+"^ot:originalLabel": "Francolinus francolinus v"
+}, 
+"t0n51": {
+"^ot:originalLabel": "Francolinus pondicerianus"
+}, 
+"t0n52": {
+"^ot:originalLabel": "Perdix perdix"
+}, 
+"t0n53": {
+"^ot:originalLabel": "Coturnix delegorguei"
+}, 
+"t0n54": {
+"^ot:originalLabel": "Coturnix coturnix japonica 1"
+}, 
+"t0n55": {
+"^ot:originalLabel": "Coturnix coturnix japonica 2"
+}, 
+"t0n56": {
+"^ot:originalLabel": "Arborophilia torqueola"
+}, 
+"t0n57": {
+"^ot:originalLabel": "Bambusicola thoracica"
+}, 
+"t0n58": {
+"^ot:originalLabel": "Tragopan satyra"
+}, 
+"t0n59": {
+"^ot:originalLabel": "Tragopan temmincki"
+}, 
+"t0n6": {
+"^ot:originalLabel": "Eudromia elegans"
+}, 
+"t0n60": {
+"^ot:originalLabel": "Lophophorus impejanus"
+}, 
+"t0n61": {
+"^ot:originalLabel": "Crossoptilon auritum"
+}, 
+"t0n62": {
+"^ot:originalLabel": "Lophura edwardsi"
+}, 
+"t0n63": {
+"^ot:originalLabel": "Lophura ignita"
+}, 
+"t0n64": {
+"^ot:originalLabel": "Gallus gallus"
+}, 
+"t0n65": {
+"^ot:originalLabel": "Grey jungle fowl"
+}, 
+"t0n66": {
+"^ot:originalLabel": "Phasianus colchicus"
+}, 
+"t0n67": {
+"^ot:originalLabel": "Syrmaticus ellioti"
+}, 
+"t0n68": {
+"^ot:originalLabel": "Syrmaticus reevesii"
+}, 
+"t0n69": {
+"^ot:originalLabel": "Chrysolophus amherstiae"
+}, 
+"t0n7": {
+"^ot:originalLabel": "Pygoscelis adeliae f"
+}, 
+"t0n70": {
+"^ot:originalLabel": "Polyplectron bicalcaratum"
+}, 
+"t0n71": {
+"^ot:originalLabel": "Argusianus argus argus"
+}, 
+"t0n72": {
+"^ot:originalLabel": "Pavo cristatus"
+}, 
+"t0n73": {
+"^ot:originalLabel": "Afropavo congensis"
+}, 
+"t0n74": {
+"^ot:originalLabel": "Numida meleagris"
+}, 
+"t0n75": {
+"^ot:originalLabel": "Acryllium vulturinum"
+}, 
+"t0n76": {
+"^ot:originalLabel": "Meleagris gallopavo"
+}, 
+"t0n77": {
+"^ot:originalLabel": "Grus carunculatus"
+}, 
+"t0n78": {
+"^ot:originalLabel": "Anthropoides virgo"
+}, 
+"t0n79": {
+"^ot:originalLabel": "Grus vipio"
+}, 
+"t0n8": {
+"^ot:originalLabel": "Pygoscelis adeliae y"
+}, 
+"t0n80": {
+"^ot:originalLabel": "Fulica atra"
+}, 
+"t0n81": {
+"^ot:originalLabel": "Vanellus spinosus"
+}, 
+"t0n82": {
+"^ot:originalLabel": "Larus rudibundus"
+}, 
+"t0n83": {
+"^ot:originalLabel": "Turnix sylvatica"
+}, 
+"t0n84": {
+"^ot:originalLabel": "Gallirallus australis"
+}, 
+"t0n85": {
+"^ot:originalLabel": "Geococcyx californianus"
+}, 
+"t0n86": {
+"^ot:originalLabel": "Dacelo novaeguineae"
+}, 
+"t0n87": {
+"^ot:originalLabel": "Carpococcyx renauldi"
+}, 
+"t0n88": {
+"^ot:originalLabel": "Podargus strigoides"
+}, 
+"t0n9": {
+"^ot:originalLabel": "Spheniscus humboldti"
+}
+}
 }
 }, 
 "treesById": {
+"g0": {
+"@label": "Untitled TREES Block 1", 
+"@otus": "t0", 
+"^ot:treeElementOrder": [
+"g0n0", 
+"g0n1"
+], 
+"treeById": {
+"g0n0": {
+"@label": "PAUP 1", 
+"@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
+"^ot:curatedType": "", 
+"^ot:inGroupClade": "", 
+"^ot:messages": {
+"message": [
+{
+"@code": "SUPPORTING_FILE_INFO", 
+"@humanMessageType": "NONE", 
+"@id": "messageufffd590a-432f-40fc-8506-7ac4d65867be", 
+"@severity": "INFO", 
+"@wasGeneratedBy": "opentree.2nexml", 
+"data": {
+"@movedToPermanentArchive": false, 
+"files": {
+"file": [
+{
+"@filename": "avian_ovomucoids.nex", 
+"@size": 7458, 
+"@sourceForTree": "g0n0", 
+"@type": "nexus", 
+"@url": "/curator/default/to_nexson?output=input&uploadid=ufffd590a-432f-40fc-8506-7ac4d65867be", 
+"description": {
+"$": "Source data for tree 'g0n0'"
+}
+}
+]
+}
+}
+}
+]
+}, 
+"^ot:outGroupEdge": "", 
+"^ot:rootNodeId": "g0n0n0", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
+"^ot:unrootedTree": true, 
+"edgeBySourceId": {
+"g0n0n0": {
+"g0n0eg0n0n1": {
+"@length": "0.067254", 
+"@source": "g0n0n0", 
+"@target": "g0n0n1"
+}, 
+"g0n0eg0n0n2": {
+"@length": "0.016151", 
+"@source": "g0n0n0", 
+"@target": "g0n0n2"
+}, 
+"g0n0eg0n0n9": {
+"@length": "0.036265", 
+"@source": "g0n0n0", 
+"@target": "g0n0n9"
+}
+}, 
+"g0n0n10": {
+"g0n0eg0n0n11": {
+"@length": "0.019408", 
+"@source": "g0n0n10", 
+"@target": "g0n0n11"
+}, 
+"g0n0eg0n0n152": {
+"@length": "0.045376", 
+"@source": "g0n0n10", 
+"@target": "g0n0n152"
+}
+}, 
+"g0n0n102": {
+"g0n0eg0n0n103": {
+"@length": "0.002668", 
+"@source": "g0n0n102", 
+"@target": "g0n0n103"
+}, 
+"g0n0eg0n0n104": {
+"@length": "0.00999", 
+"@source": "g0n0n102", 
+"@target": "g0n0n104"
+}
+}, 
+"g0n0n105": {
+"g0n0eg0n0n106": {
+"@length": "0.012404", 
+"@source": "g0n0n105", 
+"@target": "g0n0n106"
+}, 
+"g0n0eg0n0n107": {
+"@length": "0.008365", 
+"@source": "g0n0n105", 
+"@target": "g0n0n107"
+}, 
+"g0n0eg0n0n122": {
+"@length": "0.014077", 
+"@source": "g0n0n105", 
+"@target": "g0n0n122"
+}
+}, 
+"g0n0n107": {
+"g0n0eg0n0n108": {
+"@length": "0.002358", 
+"@source": "g0n0n107", 
+"@target": "g0n0n108"
+}, 
+"g0n0eg0n0n115": {
+"@length": "0.01037", 
+"@source": "g0n0n107", 
+"@target": "g0n0n115"
+}
+}, 
+"g0n0n108": {
+"g0n0eg0n0n109": {
+"@length": "0.036761", 
+"@source": "g0n0n108", 
+"@target": "g0n0n109"
+}, 
+"g0n0eg0n0n110": {
+"@length": "0.00743", 
+"@source": "g0n0n108", 
+"@target": "g0n0n110"
+}
+}, 
+"g0n0n11": {
+"g0n0eg0n0n12": {
+"@length": "0.04122", 
+"@source": "g0n0n11", 
+"@target": "g0n0n12"
+}, 
+"g0n0eg0n0n143": {
+"@length": "0.022083", 
+"@source": "g0n0n11", 
+"@target": "g0n0n143"
+}
+}, 
+"g0n0n110": {
+"g0n0eg0n0n111": {
+"@length": "0.025819", 
+"@source": "g0n0n110", 
+"@target": "g0n0n111"
+}, 
+"g0n0eg0n0n114": {
+"@length": "0.045716", 
+"@source": "g0n0n110", 
+"@target": "g0n0n114"
+}
+}, 
+"g0n0n111": {
+"g0n0eg0n0n112": {
+"@length": "0.040857", 
+"@source": "g0n0n111", 
+"@target": "g0n0n112"
+}, 
+"g0n0eg0n0n113": {
+"@length": "0.039603", 
+"@source": "g0n0n111", 
+"@target": "g0n0n113"
+}
+}, 
+"g0n0n115": {
+"g0n0eg0n0n116": {
+"@length": "0.00387", 
+"@source": "g0n0n115", 
+"@target": "g0n0n116"
+}, 
+"g0n0eg0n0n121": {
+"@length": "0.023088", 
+"@source": "g0n0n115", 
+"@target": "g0n0n121"
+}
+}, 
+"g0n0n116": {
+"g0n0eg0n0n117": {
+"@length": "0.006572", 
+"@source": "g0n0n116", 
+"@target": "g0n0n117"
+}, 
+"g0n0eg0n0n118": {
+"@length": "0.004923", 
+"@source": "g0n0n116", 
+"@target": "g0n0n118"
+}
+}, 
+"g0n0n118": {
+"g0n0eg0n0n119": {
+"@length": "0.011063", 
+"@source": "g0n0n118", 
+"@target": "g0n0n119"
+}, 
+"g0n0eg0n0n120": {
+"@length": "0.046408", 
+"@source": "g0n0n118", 
+"@target": "g0n0n120"
+}
+}, 
+"g0n0n12": {
+"g0n0eg0n0n13": {
+"@length": "0.002277", 
+"@source": "g0n0n12", 
+"@target": "g0n0n13"
+}, 
+"g0n0eg0n0n46": {
+"@length": "0.002169", 
+"@source": "g0n0n12", 
+"@target": "g0n0n46"
+}
+}, 
+"g0n0n122": {
+"g0n0eg0n0n123": {
+"@length": "0.009398", 
+"@source": "g0n0n122", 
+"@target": "g0n0n123"
+}, 
+"g0n0eg0n0n124": {
+"@length": "0.002507", 
+"@source": "g0n0n122", 
+"@target": "g0n0n124"
+}
+}, 
+"g0n0n126": {
+"g0n0eg0n0n127": {
+"@length": "0.014491", 
+"@source": "g0n0n126", 
+"@target": "g0n0n127"
+}, 
+"g0n0eg0n0n136": {
+"@length": "0.063774", 
+"@source": "g0n0n126", 
+"@target": "g0n0n136"
+}
+}, 
+"g0n0n127": {
+"g0n0eg0n0n128": {
+"@length": "0.017929", 
+"@source": "g0n0n127", 
+"@target": "g0n0n128"
+}, 
+"g0n0eg0n0n135": {
+"@length": "0.083867", 
+"@source": "g0n0n127", 
+"@target": "g0n0n135"
+}
+}, 
+"g0n0n128": {
+"g0n0eg0n0n129": {
+"@length": "0.02307", 
+"@source": "g0n0n128", 
+"@target": "g0n0n129"
+}, 
+"g0n0eg0n0n130": {
+"@length": "0.003965", 
+"@source": "g0n0n128", 
+"@target": "g0n0n130"
+}
+}, 
+"g0n0n13": {
+"g0n0eg0n0n14": {
+"@length": "0.0181", 
+"@source": "g0n0n13", 
+"@target": "g0n0n14"
+}, 
+"g0n0eg0n0n21": {
+"@length": "0.025323", 
+"@source": "g0n0n13", 
+"@target": "g0n0n21"
+}
+}, 
+"g0n0n130": {
+"g0n0eg0n0n131": {
+"@length": "0.024491", 
+"@source": "g0n0n130", 
+"@target": "g0n0n131"
+}, 
+"g0n0eg0n0n134": {
+"@length": "0.010803", 
+"@source": "g0n0n130", 
+"@target": "g0n0n134"
+}
+}, 
+"g0n0n131": {
+"g0n0eg0n0n132": {
+"@length": "737600.0", 
+"@source": "g0n0n131", 
+"@target": "g0n0n132"
+}, 
+"g0n0eg0n0n133": {
+"@length": "0.011838", 
+"@source": "g0n0n131", 
+"@target": "g0n0n133"
+}
+}, 
+"g0n0n136": {
+"g0n0eg0n0n137": {
+"@length": "0.003499", 
+"@source": "g0n0n136", 
+"@target": "g0n0n137"
+}, 
+"g0n0eg0n0n138": {
+"@length": "0.008847", 
+"@source": "g0n0n136", 
+"@target": "g0n0n138"
+}
+}, 
+"g0n0n139": {
+"g0n0eg0n0n140": {
+"@length": "0.078632", 
+"@source": "g0n0n139", 
+"@target": "g0n0n140"
+}, 
+"g0n0eg0n0n141": {
+"@length": "0.027251", 
+"@source": "g0n0n139", 
+"@target": "g0n0n141"
+}
+}, 
+"g0n0n14": {
+"g0n0eg0n0n15": {
+"@length": "0.00332", 
+"@source": "g0n0n14", 
+"@target": "g0n0n15"
+}, 
+"g0n0eg0n0n20": {
+"@length": "0.064581", 
+"@source": "g0n0n14", 
+"@target": "g0n0n20"
+}
+}, 
+"g0n0n143": {
+"g0n0eg0n0n144": {
+"@length": "0.026349", 
+"@source": "g0n0n143", 
+"@target": "g0n0n144"
+}, 
+"g0n0eg0n0n147": {
+"@length": "0.006401", 
+"@source": "g0n0n143", 
+"@target": "g0n0n147"
+}
+}, 
+"g0n0n144": {
+"g0n0eg0n0n145": {
+"@length": "0.000461", 
+"@source": "g0n0n144", 
+"@target": "g0n0n145"
+}, 
+"g0n0eg0n0n146": {
+"@length": "0.011167", 
+"@source": "g0n0n144", 
+"@target": "g0n0n146"
+}
+}, 
+"g0n0n147": {
+"g0n0eg0n0n148": {
+"@length": "0.036379", 
+"@source": "g0n0n147", 
+"@target": "g0n0n148"
+}, 
+"g0n0eg0n0n149": {
+"@length": "0.075767", 
+"@source": "g0n0n147", 
+"@target": "g0n0n149"
+}
+}, 
+"g0n0n149": {
+"g0n0eg0n0n150": {
+"@length": "0.034557", 
+"@source": "g0n0n149", 
+"@target": "g0n0n150"
+}, 
+"g0n0eg0n0n151": {
+"@length": "0.097973", 
+"@source": "g0n0n149", 
+"@target": "g0n0n151"
+}
+}, 
+"g0n0n15": {
+"g0n0eg0n0n16": {
+"@length": "0.132249", 
+"@source": "g0n0n15", 
+"@target": "g0n0n16"
+}, 
+"g0n0eg0n0n19": {
+"@length": "0.062913", 
+"@source": "g0n0n15", 
+"@target": "g0n0n19"
+}
+}, 
+"g0n0n152": {
+"g0n0eg0n0n153": {
+"@length": "0.026777", 
+"@source": "g0n0n152", 
+"@target": "g0n0n153"
+}, 
+"g0n0eg0n0n154": {
+"@length": "0.042991", 
+"@source": "g0n0n152", 
+"@target": "g0n0n154"
+}
+}, 
+"g0n0n157": {
+"g0n0eg0n0n158": {
+"@length": "0.053918", 
+"@source": "g0n0n157", 
+"@target": "g0n0n158"
+}, 
+"g0n0eg0n0n159": {
+"@length": "0.00292", 
+"@source": "g0n0n157", 
+"@target": "g0n0n159"
+}, 
+"g0n0eg0n0n162": {
+"@length": "0.040455", 
+"@source": "g0n0n157", 
+"@target": "g0n0n162"
+}
+}, 
+"g0n0n159": {
+"g0n0eg0n0n160": {
+"@length": "0.059199", 
+"@source": "g0n0n159", 
+"@target": "g0n0n160"
+}, 
+"g0n0eg0n0n161": {
+"@length": "0.103592", 
+"@source": "g0n0n159", 
+"@target": "g0n0n161"
+}
+}, 
+"g0n0n16": {
+"g0n0eg0n0n17": {
+"@length": "0.106999", 
+"@source": "g0n0n16", 
+"@target": "g0n0n17"
+}, 
+"g0n0eg0n0n18": {
+"@length": "0.100794", 
+"@source": "g0n0n16", 
+"@target": "g0n0n18"
+}
+}, 
+"g0n0n163": {
+"g0n0eg0n0n164": {
+"@length": "0.048657", 
+"@source": "g0n0n163", 
+"@target": "g0n0n164"
+}, 
+"g0n0eg0n0n167": {
+"@length": "0.121781", 
+"@source": "g0n0n163", 
+"@target": "g0n0n167"
+}
+}, 
+"g0n0n164": {
+"g0n0eg0n0n165": {
+"@length": "0.12736", 
+"@source": "g0n0n164", 
+"@target": "g0n0n165"
+}, 
+"g0n0eg0n0n166": {
+"@length": "0.101556", 
+"@source": "g0n0n164", 
+"@target": "g0n0n166"
+}
+}, 
+"g0n0n2": {
+"g0n0eg0n0n3": {
+"@length": "0.039254", 
+"@source": "g0n0n2", 
+"@target": "g0n0n3"
+}, 
+"g0n0eg0n0n6": {
+"@length": "0.065002", 
+"@source": "g0n0n2", 
+"@target": "g0n0n6"
+}
+}, 
+"g0n0n21": {
+"g0n0eg0n0n22": {
+"@length": "0.014279", 
+"@source": "g0n0n21", 
+"@target": "g0n0n22"
+}, 
+"g0n0eg0n0n31": {
+"@length": "0.002925", 
+"@source": "g0n0n21", 
+"@target": "g0n0n31"
+}, 
+"g0n0eg0n0n41": {
+"@length": "0.014301", 
+"@source": "g0n0n21", 
+"@target": "g0n0n41"
+}
+}, 
+"g0n0n22": {
+"g0n0eg0n0n23": {
+"@length": "0.001043", 
+"@source": "g0n0n22", 
+"@target": "g0n0n23"
+}, 
+"g0n0eg0n0n30": {
+"@length": "0.010119", 
+"@source": "g0n0n22", 
+"@target": "g0n0n30"
+}
+}, 
+"g0n0n23": {
+"g0n0eg0n0n24": {
+"@length": "0.019819", 
+"@source": "g0n0n23", 
+"@target": "g0n0n24"
+}, 
+"g0n0eg0n0n27": {
+"@length": "0.051293", 
+"@source": "g0n0n23", 
+"@target": "g0n0n27"
+}
+}, 
+"g0n0n24": {
+"g0n0eg0n0n25": {
+"@length": "0.00134", 
+"@source": "g0n0n24", 
+"@target": "g0n0n25"
+}, 
+"g0n0eg0n0n26": {
+"@length": "0.02247", 
+"@source": "g0n0n24", 
+"@target": "g0n0n26"
+}
+}, 
+"g0n0n27": {
+"g0n0eg0n0n28": {
+"@length": "0.006619", 
+"@source": "g0n0n27", 
+"@target": "g0n0n28"
+}, 
+"g0n0eg0n0n29": {
+"@length": "0.005009", 
+"@source": "g0n0n27", 
+"@target": "g0n0n29"
+}
+}, 
+"g0n0n3": {
+"g0n0eg0n0n4": {
+"@length": "0.00286", 
+"@source": "g0n0n3", 
+"@target": "g0n0n4"
+}, 
+"g0n0eg0n0n5": {
+"@length": "0.00964", 
+"@source": "g0n0n3", 
+"@target": "g0n0n5"
+}
+}, 
+"g0n0n31": {
+"g0n0eg0n0n32": {
+"@length": "0.012651", 
+"@source": "g0n0n31", 
+"@target": "g0n0n32"
+}, 
+"g0n0eg0n0n35": {
+"@length": "0.014351", 
+"@source": "g0n0n31", 
+"@target": "g0n0n35"
+}, 
+"g0n0eg0n0n36": {
+"@length": "0.028481", 
+"@source": "g0n0n31", 
+"@target": "g0n0n36"
+}
+}, 
+"g0n0n32": {
+"g0n0eg0n0n33": {
+"@length": "0.015799", 
+"@source": "g0n0n32", 
+"@target": "g0n0n33"
+}, 
+"g0n0eg0n0n34": {
+"@length": "0.044442", 
+"@source": "g0n0n32", 
+"@target": "g0n0n34"
+}
+}, 
+"g0n0n36": {
+"g0n0eg0n0n37": {
+"@length": "0.005222", 
+"@source": "g0n0n36", 
+"@target": "g0n0n37"
+}, 
+"g0n0eg0n0n38": {
+"@length": "0.006821", 
+"@source": "g0n0n36", 
+"@target": "g0n0n38"
+}
+}, 
+"g0n0n38": {
+"g0n0eg0n0n39": {
+"@length": "0.005765", 
+"@source": "g0n0n38", 
+"@target": "g0n0n39"
+}, 
+"g0n0eg0n0n40": {
+"@length": "0.005863", 
+"@source": "g0n0n38", 
+"@target": "g0n0n40"
+}
+}, 
+"g0n0n41": {
+"g0n0eg0n0n42": {
+"@length": "0.00821", 
+"@source": "g0n0n41", 
+"@target": "g0n0n42"
+}, 
+"g0n0eg0n0n45": {
+"@length": "0.016096", 
+"@source": "g0n0n41", 
+"@target": "g0n0n45"
+}
+}, 
+"g0n0n42": {
+"g0n0eg0n0n43": {
+"@length": "0.003495", 
+"@source": "g0n0n42", 
+"@target": "g0n0n43"
+}, 
+"g0n0eg0n0n44": {
+"@length": "0.008132", 
+"@source": "g0n0n42", 
+"@target": "g0n0n44"
+}
+}, 
+"g0n0n46": {
+"g0n0eg0n0n142": {
+"@length": "0.127207", 
+"@source": "g0n0n46", 
+"@target": "g0n0n142"
+}, 
+"g0n0eg0n0n47": {
+"@length": "0.015061", 
+"@source": "g0n0n46", 
+"@target": "g0n0n47"
+}
+}, 
+"g0n0n47": {
+"g0n0eg0n0n48": {
+"@length": "0.002755", 
+"@source": "g0n0n47", 
+"@target": "g0n0n48"
+}, 
+"g0n0eg0n0n57": {
+"@length": "0.065021", 
+"@source": "g0n0n47", 
+"@target": "g0n0n57"
+}
+}, 
+"g0n0n48": {
+"g0n0eg0n0n49": {
+"@length": "0.034584", 
+"@source": "g0n0n48", 
+"@target": "g0n0n49"
+}, 
+"g0n0eg0n0n52": {
+"@length": "0.115011", 
+"@source": "g0n0n48", 
+"@target": "g0n0n52"
+}
+}, 
+"g0n0n49": {
+"g0n0eg0n0n50": {
+"@length": "0.079825", 
+"@source": "g0n0n49", 
+"@target": "g0n0n50"
+}, 
+"g0n0eg0n0n51": {
+"@length": "0.109364", 
+"@source": "g0n0n49", 
+"@target": "g0n0n51"
+}
+}, 
+"g0n0n52": {
+"g0n0eg0n0n53": {
+"@length": "0.028129", 
+"@source": "g0n0n52", 
+"@target": "g0n0n53"
+}, 
+"g0n0eg0n0n56": {
+"@length": "0.009518", 
+"@source": "g0n0n52", 
+"@target": "g0n0n56"
+}
+}, 
+"g0n0n53": {
+"g0n0eg0n0n54": {
+"@length": "0.038313", 
+"@source": "g0n0n53", 
+"@target": "g0n0n54"
+}, 
+"g0n0eg0n0n55": {
+"@length": "0.001687", 
+"@source": "g0n0n53", 
+"@target": "g0n0n55"
+}
+}, 
+"g0n0n57": {
+"g0n0eg0n0n139": {
+"@length": "0.033954", 
+"@source": "g0n0n57", 
+"@target": "g0n0n139"
+}, 
+"g0n0eg0n0n58": {
+"@length": "0.016399", 
+"@source": "g0n0n57", 
+"@target": "g0n0n58"
+}
+}, 
+"g0n0n58": {
+"g0n0eg0n0n126": {
+"@length": "0.011777", 
+"@source": "g0n0n58", 
+"@target": "g0n0n126"
+}, 
+"g0n0eg0n0n59": {
+"@length": "0.019906", 
+"@source": "g0n0n58", 
+"@target": "g0n0n59"
+}
+}, 
+"g0n0n59": {
+"g0n0eg0n0n125": {
+"@length": "0.036339", 
+"@source": "g0n0n59", 
+"@target": "g0n0n125"
+}, 
+"g0n0eg0n0n60": {
+"@length": "0.003612", 
+"@source": "g0n0n59", 
+"@target": "g0n0n60"
+}
+}, 
+"g0n0n6": {
+"g0n0eg0n0n7": {
+"@length": "0.034004", 
+"@source": "g0n0n6", 
+"@target": "g0n0n7"
+}, 
+"g0n0eg0n0n8": {
+"@length": "0.016629", 
+"@source": "g0n0n6", 
+"@target": "g0n0n8"
+}
+}, 
+"g0n0n60": {
+"g0n0eg0n0n105": {
+"@length": "0.015444", 
+"@source": "g0n0n60", 
+"@target": "g0n0n105"
+}, 
+"g0n0eg0n0n61": {
+"@length": "0.00148", 
+"@source": "g0n0n60", 
+"@target": "g0n0n61"
+}
+}, 
+"g0n0n61": {
+"g0n0eg0n0n62": {
+"@length": "0.00223", 
+"@source": "g0n0n61", 
+"@target": "g0n0n62"
+}, 
+"g0n0eg0n0n77": {
+"@length": "0.006486", 
+"@source": "g0n0n61", 
+"@target": "g0n0n77"
+}
+}, 
+"g0n0n62": {
+"g0n0eg0n0n63": {
+"@length": "0.018163", 
+"@source": "g0n0n62", 
+"@target": "g0n0n63"
+}, 
+"g0n0eg0n0n66": {
+"@length": "0.011398", 
+"@source": "g0n0n62", 
+"@target": "g0n0n66"
+}
+}, 
+"g0n0n63": {
+"g0n0eg0n0n64": {
+"@length": "0.069728", 
+"@source": "g0n0n63", 
+"@target": "g0n0n64"
+}, 
+"g0n0eg0n0n65": {
+"@length": "0.090272", 
+"@source": "g0n0n63", 
+"@target": "g0n0n65"
+}
+}, 
+"g0n0n66": {
+"g0n0eg0n0n67": {
+"@length": "0.000115", 
+"@source": "g0n0n66", 
+"@target": "g0n0n67"
+}, 
+"g0n0eg0n0n76": {
+"@length": "0.171371", 
+"@source": "g0n0n66", 
+"@target": "g0n0n76"
+}
+}, 
+"g0n0n67": {
+"g0n0eg0n0n68": {
+"@length": "0.015714", 
+"@source": "g0n0n67", 
+"@target": "g0n0n68"
+}, 
+"g0n0eg0n0n75": {
+"@length": "0.056941", 
+"@source": "g0n0n67", 
+"@target": "g0n0n75"
+}
+}, 
+"g0n0n68": {
+"g0n0eg0n0n69": {
+"@length": "0.138901", 
+"@source": "g0n0n68", 
+"@target": "g0n0n69"
+}, 
+"g0n0eg0n0n74": {
+"@length": "0.123113", 
+"@source": "g0n0n68", 
+"@target": "g0n0n74"
+}
+}, 
+"g0n0n69": {
+"g0n0eg0n0n70": {
+"@length": "0.018406", 
+"@source": "g0n0n69", 
+"@target": "g0n0n70"
+}, 
+"g0n0eg0n0n71": {
+"@length": "0.005609", 
+"@source": "g0n0n69", 
+"@target": "g0n0n71"
+}
+}, 
+"g0n0n71": {
+"g0n0eg0n0n72": {
+"@length": "0.007026", 
+"@source": "g0n0n71", 
+"@target": "g0n0n72"
+}, 
+"g0n0eg0n0n73": {
+"@length": "0.004468", 
+"@source": "g0n0n71", 
+"@target": "g0n0n73"
+}
+}, 
+"g0n0n77": {
+"g0n0eg0n0n101": {
+"@length": "0.030851", 
+"@source": "g0n0n77", 
+"@target": "g0n0n101"
+}, 
+"g0n0eg0n0n102": {
+"@length": "0.039562", 
+"@source": "g0n0n77", 
+"@target": "g0n0n102"
+}, 
+"g0n0eg0n0n78": {
+"@length": "0.007613", 
+"@source": "g0n0n77", 
+"@target": "g0n0n78"
+}
+}, 
+"g0n0n78": {
+"g0n0eg0n0n79": {
+"@length": "0.008895", 
+"@source": "g0n0n78", 
+"@target": "g0n0n79"
+}, 
+"g0n0eg0n0n94": {
+"@length": "0.086179", 
+"@source": "g0n0n78", 
+"@target": "g0n0n94"
+}
+}, 
+"g0n0n79": {
+"g0n0eg0n0n80": {
+"@length": "0.05812", 
+"@source": "g0n0n79", 
+"@target": "g0n0n80"
+}, 
+"g0n0eg0n0n83": {
+"@length": "0.014453", 
+"@source": "g0n0n79", 
+"@target": "g0n0n83"
+}
+}, 
+"g0n0n80": {
+"g0n0eg0n0n81": {
+"@length": "0.009392", 
+"@source": "g0n0n80", 
+"@target": "g0n0n81"
+}, 
+"g0n0eg0n0n82": {
+"@length": "0.002803", 
+"@source": "g0n0n80", 
+"@target": "g0n0n82"
+}
+}, 
+"g0n0n83": {
+"g0n0eg0n0n84": {
+"@length": "0.004121", 
+"@source": "g0n0n83", 
+"@target": "g0n0n84"
+}, 
+"g0n0eg0n0n91": {
+"@length": "0.111854", 
+"@source": "g0n0n83", 
+"@target": "g0n0n91"
+}
+}, 
+"g0n0n84": {
+"g0n0eg0n0n85": {
+"@length": "0.008327", 
+"@source": "g0n0n84", 
+"@target": "g0n0n85"
+}, 
+"g0n0eg0n0n90": {
+"@length": "0.124746", 
+"@source": "g0n0n84", 
+"@target": "g0n0n90"
+}
+}, 
+"g0n0n85": {
+"g0n0eg0n0n86": {
+"@length": "0.141131", 
+"@source": "g0n0n85", 
+"@target": "g0n0n86"
+}, 
+"g0n0eg0n0n89": {
+"@length": "0.11504", 
+"@source": "g0n0n85", 
+"@target": "g0n0n89"
+}
+}, 
+"g0n0n86": {
+"g0n0eg0n0n87": {
+"@length": "0.011215", 
+"@source": "g0n0n86", 
+"@target": "g0n0n87"
+}, 
+"g0n0eg0n0n88": {
+"@length": "0.000834", 
+"@source": "g0n0n86", 
+"@target": "g0n0n88"
+}
+}, 
+"g0n0n9": {
+"g0n0eg0n0n10": {
+"@length": "0.011652", 
+"@source": "g0n0n9", 
+"@target": "g0n0n10"
+}, 
+"g0n0eg0n0n155": {
+"@length": "0.045045", 
+"@source": "g0n0n9", 
+"@target": "g0n0n155"
+}, 
+"g0n0eg0n0n156": {
+"@length": "0.049118", 
+"@source": "g0n0n9", 
+"@target": "g0n0n156"
+}, 
+"g0n0eg0n0n157": {
+"@length": "0.038786", 
+"@source": "g0n0n9", 
+"@target": "g0n0n157"
+}, 
+"g0n0eg0n0n163": {
+"@length": "0.007258", 
+"@source": "g0n0n9", 
+"@target": "g0n0n163"
+}
+}, 
+"g0n0n91": {
+"g0n0eg0n0n92": {
+"@length": "0.005744", 
+"@source": "g0n0n91", 
+"@target": "g0n0n92"
+}, 
+"g0n0eg0n0n93": {
+"@length": "0.00575", 
+"@source": "g0n0n91", 
+"@target": "g0n0n93"
+}
+}, 
+"g0n0n94": {
+"g0n0eg0n0n100": {
+"@length": "0.036977", 
+"@source": "g0n0n94", 
+"@target": "g0n0n100"
+}, 
+"g0n0eg0n0n95": {
+"@length": "0.021339", 
+"@source": "g0n0n94", 
+"@target": "g0n0n95"
+}
+}, 
+"g0n0n95": {
+"g0n0eg0n0n96": {
+"@length": "0.023469", 
+"@source": "g0n0n95", 
+"@target": "g0n0n96"
+}, 
+"g0n0eg0n0n97": {
+"@length": "0.013116", 
+"@source": "g0n0n95", 
+"@target": "g0n0n97"
+}
+}, 
+"g0n0n97": {
+"g0n0eg0n0n98": {
+"@length": "0.005521", 
+"@source": "g0n0n97", 
+"@target": "g0n0n98"
+}, 
+"g0n0eg0n0n99": {
+"@length": "0.006674", 
+"@source": "g0n0n97", 
+"@target": "g0n0n99"
+}
+}
+}, 
+"nodeById": {
+"g0n0n0": {
+"@root": true
+}, 
+"g0n0n1": {
+"@otu": "t0n0"
+}, 
+"g0n0n10": {}, 
+"g0n0n100": {
+"@otu": "t0n46"
+}, 
+"g0n0n101": {
+"@otu": "t0n60"
+}, 
+"g0n0n102": {}, 
+"g0n0n103": {
+"@otu": "t0n74"
+}, 
+"g0n0n104": {
+"@otu": "t0n75"
+}, 
+"g0n0n105": {}, 
+"g0n0n106": {
+"@otu": "t0n35"
+}, 
+"g0n0n107": {}, 
+"g0n0n108": {}, 
+"g0n0n109": {
+"@otu": "t0n52"
+}, 
+"g0n0n11": {}, 
+"g0n0n110": {}, 
+"g0n0n111": {}, 
+"g0n0n112": {
+"@otu": "t0n66"
+}, 
+"g0n0n113": {
+"@otu": "t0n68"
+}, 
+"g0n0n114": {
+"@otu": "t0n69"
+}, 
+"g0n0n115": {}, 
+"g0n0n116": {}, 
+"g0n0n117": {
+"@otu": "t0n61"
+}, 
+"g0n0n118": {}, 
+"g0n0n119": {
+"@otu": "t0n62"
+}, 
+"g0n0n12": {}, 
+"g0n0n120": {
+"@otu": "t0n63"
+}, 
+"g0n0n121": {
+"@otu": "t0n67"
+}, 
+"g0n0n122": {}, 
+"g0n0n123": {
+"@otu": "t0n58"
+}, 
+"g0n0n124": {
+"@otu": "t0n59"
+}, 
+"g0n0n125": {
+"@otu": "t0n76"
+}, 
+"g0n0n126": {}, 
+"g0n0n127": {}, 
+"g0n0n128": {}, 
+"g0n0n129": {
+"@otu": "t0n36"
+}, 
+"g0n0n13": {}, 
+"g0n0n130": {}, 
+"g0n0n131": {}, 
+"g0n0n132": {
+"@otu": "t0n37"
+}, 
+"g0n0n133": {
+"@otu": "t0n38"
+}, 
+"g0n0n134": {
+"@otu": "t0n39"
+}, 
+"g0n0n135": {
+"@otu": "t0n40"
+}, 
+"g0n0n136": {}, 
+"g0n0n137": {
+"@otu": "t0n41"
+}, 
+"g0n0n138": {
+"@otu": "t0n42"
+}, 
+"g0n0n139": {}, 
+"g0n0n14": {}, 
+"g0n0n140": {
+"@otu": "t0n71"
+}, 
+"g0n0n141": {
+"@otu": "t0n72"
+}, 
+"g0n0n142": {
+"@otu": "t0n86"
+}, 
+"g0n0n143": {}, 
+"g0n0n144": {}, 
+"g0n0n145": {
+"@otu": "t0n77"
+}, 
+"g0n0n146": {
+"@otu": "t0n79"
+}, 
+"g0n0n147": {}, 
+"g0n0n148": {
+"@otu": "t0n78"
+}, 
+"g0n0n149": {}, 
+"g0n0n15": {}, 
+"g0n0n150": {
+"@otu": "t0n80"
+}, 
+"g0n0n151": {
+"@otu": "t0n84"
+}, 
+"g0n0n152": {}, 
+"g0n0n153": {
+"@otu": "t0n81"
+}, 
+"g0n0n154": {
+"@otu": "t0n82"
+}, 
+"g0n0n155": {
+"@otu": "t0n7"
+}, 
+"g0n0n156": {
+"@otu": "t0n8"
+}, 
+"g0n0n157": {}, 
+"g0n0n158": {
+"@otu": "t0n9"
+}, 
+"g0n0n159": {}, 
+"g0n0n16": {}, 
+"g0n0n160": {
+"@otu": "t0n10"
+}, 
+"g0n0n161": {
+"@otu": "t0n12"
+}, 
+"g0n0n162": {
+"@otu": "t0n11"
+}, 
+"g0n0n163": {}, 
+"g0n0n164": {}, 
+"g0n0n165": {
+"@otu": "t0n85"
+}, 
+"g0n0n166": {
+"@otu": "t0n87"
+}, 
+"g0n0n167": {
+"@otu": "t0n88"
+}, 
+"g0n0n17": {
+"@otu": "t0n5"
+}, 
+"g0n0n18": {
+"@otu": "t0n6"
+}, 
+"g0n0n19": {
+"@otu": "t0n13"
+}, 
+"g0n0n2": {}, 
+"g0n0n20": {
+"@otu": "t0n14"
+}, 
+"g0n0n21": {}, 
+"g0n0n22": {}, 
+"g0n0n23": {}, 
+"g0n0n24": {}, 
+"g0n0n25": {
+"@otu": "t0n15"
+}, 
+"g0n0n26": {
+"@otu": "t0n19"
+}, 
+"g0n0n27": {}, 
+"g0n0n28": {
+"@otu": "t0n17"
+}, 
+"g0n0n29": {
+"@otu": "t0n18"
+}, 
+"g0n0n3": {}, 
+"g0n0n30": {
+"@otu": "t0n16"
+}, 
+"g0n0n31": {}, 
+"g0n0n32": {}, 
+"g0n0n33": {
+"@otu": "t0n20"
+}, 
+"g0n0n34": {
+"@otu": "t0n25"
+}, 
+"g0n0n35": {
+"@otu": "t0n21"
+}, 
+"g0n0n36": {}, 
+"g0n0n37": {
+"@otu": "t0n26"
+}, 
+"g0n0n38": {}, 
+"g0n0n39": {
+"@otu": "t0n27"
+}, 
+"g0n0n4": {
+"@otu": "t0n1"
+}, 
+"g0n0n40": {
+"@otu": "t0n28"
+}, 
+"g0n0n41": {}, 
+"g0n0n42": {}, 
+"g0n0n43": {
+"@otu": "t0n22"
+}, 
+"g0n0n44": {
+"@otu": "t0n23"
+}, 
+"g0n0n45": {
+"@otu": "t0n24"
+}, 
+"g0n0n46": {}, 
+"g0n0n47": {}, 
+"g0n0n48": {}, 
+"g0n0n49": {}, 
+"g0n0n5": {
+"@otu": "t0n2"
+}, 
+"g0n0n50": {
+"@otu": "t0n29"
+}, 
+"g0n0n51": {
+"@otu": "t0n30"
+}, 
+"g0n0n52": {}, 
+"g0n0n53": {}, 
+"g0n0n54": {
+"@otu": "t0n31"
+}, 
+"g0n0n55": {
+"@otu": "t0n32"
+}, 
+"g0n0n56": {
+"@otu": "t0n33"
+}, 
+"g0n0n57": {}, 
+"g0n0n58": {}, 
+"g0n0n59": {}, 
+"g0n0n6": {}, 
+"g0n0n60": {}, 
+"g0n0n61": {}, 
+"g0n0n62": {}, 
+"g0n0n63": {}, 
+"g0n0n64": {
+"@otu": "t0n34"
+}, 
+"g0n0n65": {
+"@otu": "t0n56"
+}, 
+"g0n0n66": {}, 
+"g0n0n67": {}, 
+"g0n0n68": {}, 
+"g0n0n69": {}, 
+"g0n0n7": {
+"@otu": "t0n3"
+}, 
+"g0n0n70": {
+"@otu": "t0n53"
+}, 
+"g0n0n71": {}, 
+"g0n0n72": {
+"@otu": "t0n54"
+}, 
+"g0n0n73": {
+"@otu": "t0n55"
+}, 
+"g0n0n74": {
+"@otu": "t0n83"
+}, 
+"g0n0n75": {
+"@otu": "t0n73"
+}, 
+"g0n0n76": {
+"@otu": "t0n70"
+}, 
+"g0n0n77": {}, 
+"g0n0n78": {}, 
+"g0n0n79": {}, 
+"g0n0n8": {
+"@otu": "t0n4"
+}, 
+"g0n0n80": {}, 
+"g0n0n81": {
+"@otu": "t0n43"
+}, 
+"g0n0n82": {
+"@otu": "t0n44"
+}, 
+"g0n0n83": {}, 
+"g0n0n84": {}, 
+"g0n0n85": {}, 
+"g0n0n86": {}, 
+"g0n0n87": {
+"@otu": "t0n49"
+}, 
+"g0n0n88": {
+"@otu": "t0n50"
+}, 
+"g0n0n89": {
+"@otu": "t0n57"
+}, 
+"g0n0n9": {}, 
+"g0n0n90": {
+"@otu": "t0n51"
+}, 
+"g0n0n91": {}, 
+"g0n0n92": {
+"@otu": "t0n64"
+}, 
+"g0n0n93": {
+"@otu": "t0n65"
+}, 
+"g0n0n94": {}, 
+"g0n0n95": {}, 
+"g0n0n96": {
+"@otu": "t0n45"
+}, 
+"g0n0n97": {}, 
+"g0n0n98": {
+"@otu": "t0n47"
+}, 
+"g0n0n99": {
+"@otu": "t0n48"
+}
+}
+}, 
+"g0n1": {
+"@label": "PAUP 2", 
+"@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
+"^ot:curatedType": "", 
+"^ot:inGroupClade": "", 
+"^ot:messages": {
+"message": [
+{
+"@code": "SUPPORTING_FILE_INFO", 
+"@humanMessageType": "NONE", 
+"@id": "messageufffd590a-432f-40fc-8506-7ac4d65867be", 
+"@severity": "INFO", 
+"@wasGeneratedBy": "opentree.2nexml", 
+"data": {
+"@movedToPermanentArchive": false, 
+"files": {
+"file": [
+{
+"@filename": "avian_ovomucoids.nex", 
+"@size": 7458, 
+"@sourceForTree": "g0n1", 
+"@type": "nexus", 
+"@url": "/curator/default/to_nexson?output=input&uploadid=ufffd590a-432f-40fc-8506-7ac4d65867be", 
+"description": {
+"$": "Source data for tree 'g0n1'"
+}
+}
+]
+}
+}
+}
+]
+}, 
+"^ot:outGroupEdge": "", 
+"^ot:rootNodeId": "g0n1n0", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
+"^ot:unrootedTree": true, 
+"edgeBySourceId": {
+"g0n1n0": {
+"g0n1eg0n1n1": {
+"@length": "0.067254", 
+"@source": "g0n1n0", 
+"@target": "g0n1n1"
+}, 
+"g0n1eg0n1n2": {
+"@length": "0.016151", 
+"@source": "g0n1n0", 
+"@target": "g0n1n2"
+}, 
+"g0n1eg0n1n9": {
+"@length": "0.036265", 
+"@source": "g0n1n0", 
+"@target": "g0n1n9"
+}
+}, 
+"g0n1n10": {
+"g0n1eg0n1n11": {
+"@length": "0.019408", 
+"@source": "g0n1n10", 
+"@target": "g0n1n11"
+}, 
+"g0n1eg0n1n152": {
+"@length": "0.045376", 
+"@source": "g0n1n10", 
+"@target": "g0n1n152"
+}
+}, 
+"g0n1n102": {
+"g0n1eg0n1n103": {
+"@length": "0.002668", 
+"@source": "g0n1n102", 
+"@target": "g0n1n103"
+}, 
+"g0n1eg0n1n104": {
+"@length": "0.00999", 
+"@source": "g0n1n102", 
+"@target": "g0n1n104"
+}
+}, 
+"g0n1n105": {
+"g0n1eg0n1n106": {
+"@length": "0.012404", 
+"@source": "g0n1n105", 
+"@target": "g0n1n106"
+}, 
+"g0n1eg0n1n107": {
+"@length": "0.008365", 
+"@source": "g0n1n105", 
+"@target": "g0n1n107"
+}, 
+"g0n1eg0n1n122": {
+"@length": "0.014077", 
+"@source": "g0n1n105", 
+"@target": "g0n1n122"
+}
+}, 
+"g0n1n107": {
+"g0n1eg0n1n108": {
+"@length": "0.002358", 
+"@source": "g0n1n107", 
+"@target": "g0n1n108"
+}, 
+"g0n1eg0n1n115": {
+"@length": "0.01037", 
+"@source": "g0n1n107", 
+"@target": "g0n1n115"
+}
+}, 
+"g0n1n108": {
+"g0n1eg0n1n109": {
+"@length": "0.036761", 
+"@source": "g0n1n108", 
+"@target": "g0n1n109"
+}, 
+"g0n1eg0n1n110": {
+"@length": "0.00743", 
+"@source": "g0n1n108", 
+"@target": "g0n1n110"
+}
+}, 
+"g0n1n11": {
+"g0n1eg0n1n12": {
+"@length": "0.04122", 
+"@source": "g0n1n11", 
+"@target": "g0n1n12"
+}, 
+"g0n1eg0n1n143": {
+"@length": "0.022083", 
+"@source": "g0n1n11", 
+"@target": "g0n1n143"
+}
+}, 
+"g0n1n110": {
+"g0n1eg0n1n111": {
+"@length": "0.025819", 
+"@source": "g0n1n110", 
+"@target": "g0n1n111"
+}, 
+"g0n1eg0n1n114": {
+"@length": "0.045716", 
+"@source": "g0n1n110", 
+"@target": "g0n1n114"
+}
+}, 
+"g0n1n111": {
+"g0n1eg0n1n112": {
+"@length": "0.040857", 
+"@source": "g0n1n111", 
+"@target": "g0n1n112"
+}, 
+"g0n1eg0n1n113": {
+"@length": "0.039603", 
+"@source": "g0n1n111", 
+"@target": "g0n1n113"
+}
+}, 
+"g0n1n115": {
+"g0n1eg0n1n116": {
+"@length": "0.00387", 
+"@source": "g0n1n115", 
+"@target": "g0n1n116"
+}, 
+"g0n1eg0n1n121": {
+"@length": "0.023088", 
+"@source": "g0n1n115", 
+"@target": "g0n1n121"
+}
+}, 
+"g0n1n116": {
+"g0n1eg0n1n117": {
+"@length": "0.006572", 
+"@source": "g0n1n116", 
+"@target": "g0n1n117"
+}, 
+"g0n1eg0n1n118": {
+"@length": "0.004923", 
+"@source": "g0n1n116", 
+"@target": "g0n1n118"
+}
+}, 
+"g0n1n118": {
+"g0n1eg0n1n119": {
+"@length": "0.011063", 
+"@source": "g0n1n118", 
+"@target": "g0n1n119"
+}, 
+"g0n1eg0n1n120": {
+"@length": "0.046408", 
+"@source": "g0n1n118", 
+"@target": "g0n1n120"
+}
+}, 
+"g0n1n12": {
+"g0n1eg0n1n13": {
+"@length": "0.002277", 
+"@source": "g0n1n12", 
+"@target": "g0n1n13"
+}, 
+"g0n1eg0n1n46": {
+"@length": "0.002169", 
+"@source": "g0n1n12", 
+"@target": "g0n1n46"
+}
+}, 
+"g0n1n122": {
+"g0n1eg0n1n123": {
+"@length": "0.009398", 
+"@source": "g0n1n122", 
+"@target": "g0n1n123"
+}, 
+"g0n1eg0n1n124": {
+"@length": "0.002507", 
+"@source": "g0n1n122", 
+"@target": "g0n1n124"
+}
+}, 
+"g0n1n126": {
+"g0n1eg0n1n127": {
+"@length": "0.014491", 
+"@source": "g0n1n126", 
+"@target": "g0n1n127"
+}, 
+"g0n1eg0n1n136": {
+"@length": "0.063774", 
+"@source": "g0n1n126", 
+"@target": "g0n1n136"
+}
+}, 
+"g0n1n127": {
+"g0n1eg0n1n128": {
+"@length": "0.017929", 
+"@source": "g0n1n127", 
+"@target": "g0n1n128"
+}, 
+"g0n1eg0n1n135": {
+"@length": "0.083867", 
+"@source": "g0n1n127", 
+"@target": "g0n1n135"
+}
+}, 
+"g0n1n128": {
+"g0n1eg0n1n129": {
+"@length": "0.02307", 
+"@source": "g0n1n128", 
+"@target": "g0n1n129"
+}, 
+"g0n1eg0n1n130": {
+"@length": "0.003965", 
+"@source": "g0n1n128", 
+"@target": "g0n1n130"
+}
+}, 
+"g0n1n13": {
+"g0n1eg0n1n14": {
+"@length": "0.023184", 
+"@source": "g0n1n13", 
+"@target": "g0n1n14"
+}, 
+"g0n1eg0n1n21": {
+"@length": "0.025323", 
+"@source": "g0n1n13", 
+"@target": "g0n1n21"
+}
+}, 
+"g0n1n130": {
+"g0n1eg0n1n131": {
+"@length": "0.024491", 
+"@source": "g0n1n130", 
+"@target": "g0n1n131"
+}, 
+"g0n1eg0n1n134": {
+"@length": "0.010803", 
+"@source": "g0n1n130", 
+"@target": "g0n1n134"
+}
+}, 
+"g0n1n131": {
+"g0n1eg0n1n132": {
+"@length": "737600.0", 
+"@source": "g0n1n131", 
+"@target": "g0n1n132"
+}, 
+"g0n1eg0n1n133": {
+"@length": "0.011838", 
+"@source": "g0n1n131", 
+"@target": "g0n1n133"
+}
+}, 
+"g0n1n136": {
+"g0n1eg0n1n137": {
+"@length": "0.003499", 
+"@source": "g0n1n136", 
+"@target": "g0n1n137"
+}, 
+"g0n1eg0n1n138": {
+"@length": "0.008847", 
+"@source": "g0n1n136", 
+"@target": "g0n1n138"
+}
+}, 
+"g0n1n139": {
+"g0n1eg0n1n140": {
+"@length": "0.078632", 
+"@source": "g0n1n139", 
+"@target": "g0n1n140"
+}, 
+"g0n1eg0n1n141": {
+"@length": "0.027251", 
+"@source": "g0n1n139", 
+"@target": "g0n1n141"
+}
+}, 
+"g0n1n14": {
+"g0n1eg0n1n15": {
+"@length": "0.016", 
+"@source": "g0n1n14", 
+"@target": "g0n1n15"
+}, 
+"g0n1eg0n1n20": {
+"@length": "0.055012", 
+"@source": "g0n1n14", 
+"@target": "g0n1n20"
+}
+}, 
+"g0n1n143": {
+"g0n1eg0n1n144": {
+"@length": "0.026349", 
+"@source": "g0n1n143", 
+"@target": "g0n1n144"
+}, 
+"g0n1eg0n1n147": {
+"@length": "0.006401", 
+"@source": "g0n1n143", 
+"@target": "g0n1n147"
+}
+}, 
+"g0n1n144": {
+"g0n1eg0n1n145": {
+"@length": "0.000461", 
+"@source": "g0n1n144", 
+"@target": "g0n1n145"
+}, 
+"g0n1eg0n1n146": {
+"@length": "0.011167", 
+"@source": "g0n1n144", 
+"@target": "g0n1n146"
+}
+}, 
+"g0n1n147": {
+"g0n1eg0n1n148": {
+"@length": "0.036379", 
+"@source": "g0n1n147", 
+"@target": "g0n1n148"
+}, 
+"g0n1eg0n1n149": {
+"@length": "0.075767", 
+"@source": "g0n1n147", 
+"@target": "g0n1n149"
+}
+}, 
+"g0n1n149": {
+"g0n1eg0n1n150": {
+"@length": "0.034557", 
+"@source": "g0n1n149", 
+"@target": "g0n1n150"
+}, 
+"g0n1eg0n1n151": {
+"@length": "0.097973", 
+"@source": "g0n1n149", 
+"@target": "g0n1n151"
+}
+}, 
+"g0n1n15": {
+"g0n1eg0n1n16": {
+"@length": "0.139786", 
+"@source": "g0n1n15", 
+"@target": "g0n1n16"
+}, 
+"g0n1eg0n1n19": {
+"@length": "0.075112", 
+"@source": "g0n1n15", 
+"@target": "g0n1n19"
+}
+}, 
+"g0n1n152": {
+"g0n1eg0n1n153": {
+"@length": "0.026777", 
+"@source": "g0n1n152", 
+"@target": "g0n1n153"
+}, 
+"g0n1eg0n1n154": {
+"@length": "0.042991", 
+"@source": "g0n1n152", 
+"@target": "g0n1n154"
+}
+}, 
+"g0n1n157": {
+"g0n1eg0n1n158": {
+"@length": "0.053918", 
+"@source": "g0n1n157", 
+"@target": "g0n1n158"
+}, 
+"g0n1eg0n1n159": {
+"@length": "0.00292", 
+"@source": "g0n1n157", 
+"@target": "g0n1n159"
+}, 
+"g0n1eg0n1n162": {
+"@length": "0.040455", 
+"@source": "g0n1n157", 
+"@target": "g0n1n162"
+}
+}, 
+"g0n1n159": {
+"g0n1eg0n1n160": {
+"@length": "0.059199", 
+"@source": "g0n1n159", 
+"@target": "g0n1n160"
+}, 
+"g0n1eg0n1n161": {
+"@length": "0.103592", 
+"@source": "g0n1n159", 
+"@target": "g0n1n161"
+}
+}, 
+"g0n1n16": {
+"g0n1eg0n1n17": {
+"@length": "0.106999", 
+"@source": "g0n1n16", 
+"@target": "g0n1n17"
+}, 
+"g0n1eg0n1n18": {
+"@length": "0.100794", 
+"@source": "g0n1n16", 
+"@target": "g0n1n18"
+}
+}, 
+"g0n1n163": {
+"g0n1eg0n1n164": {
+"@length": "0.048657", 
+"@source": "g0n1n163", 
+"@target": "g0n1n164"
+}, 
+"g0n1eg0n1n167": {
+"@length": "0.121781", 
+"@source": "g0n1n163", 
+"@target": "g0n1n167"
+}
+}, 
+"g0n1n164": {
+"g0n1eg0n1n165": {
+"@length": "0.12736", 
+"@source": "g0n1n164", 
+"@target": "g0n1n165"
+}, 
+"g0n1eg0n1n166": {
+"@length": "0.101556", 
+"@source": "g0n1n164", 
+"@target": "g0n1n166"
+}
+}, 
+"g0n1n2": {
+"g0n1eg0n1n3": {
+"@length": "0.039254", 
+"@source": "g0n1n2", 
+"@target": "g0n1n3"
+}, 
+"g0n1eg0n1n6": {
+"@length": "0.065002", 
+"@source": "g0n1n2", 
+"@target": "g0n1n6"
+}
+}, 
+"g0n1n21": {
+"g0n1eg0n1n22": {
+"@length": "0.014279", 
+"@source": "g0n1n21", 
+"@target": "g0n1n22"
+}, 
+"g0n1eg0n1n31": {
+"@length": "0.002925", 
+"@source": "g0n1n21", 
+"@target": "g0n1n31"
+}, 
+"g0n1eg0n1n41": {
+"@length": "0.014301", 
+"@source": "g0n1n21", 
+"@target": "g0n1n41"
+}
+}, 
+"g0n1n22": {
+"g0n1eg0n1n23": {
+"@length": "0.001043", 
+"@source": "g0n1n22", 
+"@target": "g0n1n23"
+}, 
+"g0n1eg0n1n30": {
+"@length": "0.010119", 
+"@source": "g0n1n22", 
+"@target": "g0n1n30"
+}
+}, 
+"g0n1n23": {
+"g0n1eg0n1n24": {
+"@length": "0.019819", 
+"@source": "g0n1n23", 
+"@target": "g0n1n24"
+}, 
+"g0n1eg0n1n27": {
+"@length": "0.051293", 
+"@source": "g0n1n23", 
+"@target": "g0n1n27"
+}
+}, 
+"g0n1n24": {
+"g0n1eg0n1n25": {
+"@length": "0.00134", 
+"@source": "g0n1n24", 
+"@target": "g0n1n25"
+}, 
+"g0n1eg0n1n26": {
+"@length": "0.02247", 
+"@source": "g0n1n24", 
+"@target": "g0n1n26"
+}
+}, 
+"g0n1n27": {
+"g0n1eg0n1n28": {
+"@length": "0.006619", 
+"@source": "g0n1n27", 
+"@target": "g0n1n28"
+}, 
+"g0n1eg0n1n29": {
+"@length": "0.005009", 
+"@source": "g0n1n27", 
+"@target": "g0n1n29"
+}
+}, 
+"g0n1n3": {
+"g0n1eg0n1n4": {
+"@length": "0.00286", 
+"@source": "g0n1n3", 
+"@target": "g0n1n4"
+}, 
+"g0n1eg0n1n5": {
+"@length": "0.00964", 
+"@source": "g0n1n3", 
+"@target": "g0n1n5"
+}
+}, 
+"g0n1n31": {
+"g0n1eg0n1n32": {
+"@length": "0.012651", 
+"@source": "g0n1n31", 
+"@target": "g0n1n32"
+}, 
+"g0n1eg0n1n35": {
+"@length": "0.014351", 
+"@source": "g0n1n31", 
+"@target": "g0n1n35"
+}, 
+"g0n1eg0n1n36": {
+"@length": "0.028481", 
+"@source": "g0n1n31", 
+"@target": "g0n1n36"
+}
+}, 
+"g0n1n32": {
+"g0n1eg0n1n33": {
+"@length": "0.015799", 
+"@source": "g0n1n32", 
+"@target": "g0n1n33"
+}, 
+"g0n1eg0n1n34": {
+"@length": "0.044442", 
+"@source": "g0n1n32", 
+"@target": "g0n1n34"
+}
+}, 
+"g0n1n36": {
+"g0n1eg0n1n37": {
+"@length": "0.005222", 
+"@source": "g0n1n36", 
+"@target": "g0n1n37"
+}, 
+"g0n1eg0n1n38": {
+"@length": "0.006821", 
+"@source": "g0n1n36", 
+"@target": "g0n1n38"
+}
+}, 
+"g0n1n38": {
+"g0n1eg0n1n39": {
+"@length": "0.005765", 
+"@source": "g0n1n38", 
+"@target": "g0n1n39"
+}, 
+"g0n1eg0n1n40": {
+"@length": "0.005863", 
+"@source": "g0n1n38", 
+"@target": "g0n1n40"
+}
+}, 
+"g0n1n41": {
+"g0n1eg0n1n42": {
+"@length": "0.00821", 
+"@source": "g0n1n41", 
+"@target": "g0n1n42"
+}, 
+"g0n1eg0n1n45": {
+"@length": "0.016096", 
+"@source": "g0n1n41", 
+"@target": "g0n1n45"
+}
+}, 
+"g0n1n42": {
+"g0n1eg0n1n43": {
+"@length": "0.003495", 
+"@source": "g0n1n42", 
+"@target": "g0n1n43"
+}, 
+"g0n1eg0n1n44": {
+"@length": "0.008132", 
+"@source": "g0n1n42", 
+"@target": "g0n1n44"
+}
+}, 
+"g0n1n46": {
+"g0n1eg0n1n142": {
+"@length": "0.127207", 
+"@source": "g0n1n46", 
+"@target": "g0n1n142"
+}, 
+"g0n1eg0n1n47": {
+"@length": "0.015061", 
+"@source": "g0n1n46", 
+"@target": "g0n1n47"
+}
+}, 
+"g0n1n47": {
+"g0n1eg0n1n48": {
+"@length": "0.002755", 
+"@source": "g0n1n47", 
+"@target": "g0n1n48"
+}, 
+"g0n1eg0n1n57": {
+"@length": "0.065021", 
+"@source": "g0n1n47", 
+"@target": "g0n1n57"
+}
+}, 
+"g0n1n48": {
+"g0n1eg0n1n49": {
+"@length": "0.034584", 
+"@source": "g0n1n48", 
+"@target": "g0n1n49"
+}, 
+"g0n1eg0n1n52": {
+"@length": "0.115011", 
+"@source": "g0n1n48", 
+"@target": "g0n1n52"
+}
+}, 
+"g0n1n49": {
+"g0n1eg0n1n50": {
+"@length": "0.079825", 
+"@source": "g0n1n49", 
+"@target": "g0n1n50"
+}, 
+"g0n1eg0n1n51": {
+"@length": "0.109364", 
+"@source": "g0n1n49", 
+"@target": "g0n1n51"
+}
+}, 
+"g0n1n52": {
+"g0n1eg0n1n53": {
+"@length": "0.028129", 
+"@source": "g0n1n52", 
+"@target": "g0n1n53"
+}, 
+"g0n1eg0n1n56": {
+"@length": "0.009518", 
+"@source": "g0n1n52", 
+"@target": "g0n1n56"
+}
+}, 
+"g0n1n53": {
+"g0n1eg0n1n54": {
+"@length": "0.038313", 
+"@source": "g0n1n53", 
+"@target": "g0n1n54"
+}, 
+"g0n1eg0n1n55": {
+"@length": "0.001687", 
+"@source": "g0n1n53", 
+"@target": "g0n1n55"
+}
+}, 
+"g0n1n57": {
+"g0n1eg0n1n139": {
+"@length": "0.033954", 
+"@source": "g0n1n57", 
+"@target": "g0n1n139"
+}, 
+"g0n1eg0n1n58": {
+"@length": "0.016399", 
+"@source": "g0n1n57", 
+"@target": "g0n1n58"
+}
+}, 
+"g0n1n58": {
+"g0n1eg0n1n126": {
+"@length": "0.011777", 
+"@source": "g0n1n58", 
+"@target": "g0n1n126"
+}, 
+"g0n1eg0n1n59": {
+"@length": "0.019906", 
+"@source": "g0n1n58", 
+"@target": "g0n1n59"
+}
+}, 
+"g0n1n59": {
+"g0n1eg0n1n125": {
+"@length": "0.036339", 
+"@source": "g0n1n59", 
+"@target": "g0n1n125"
+}, 
+"g0n1eg0n1n60": {
+"@length": "0.003612", 
+"@source": "g0n1n59", 
+"@target": "g0n1n60"
+}
+}, 
+"g0n1n6": {
+"g0n1eg0n1n7": {
+"@length": "0.034004", 
+"@source": "g0n1n6", 
+"@target": "g0n1n7"
+}, 
+"g0n1eg0n1n8": {
+"@length": "0.016629", 
+"@source": "g0n1n6", 
+"@target": "g0n1n8"
+}
+}, 
+"g0n1n60": {
+"g0n1eg0n1n105": {
+"@length": "0.015444", 
+"@source": "g0n1n60", 
+"@target": "g0n1n105"
+}, 
+"g0n1eg0n1n61": {
+"@length": "0.00148", 
+"@source": "g0n1n60", 
+"@target": "g0n1n61"
+}
+}, 
+"g0n1n61": {
+"g0n1eg0n1n62": {
+"@length": "0.00223", 
+"@source": "g0n1n61", 
+"@target": "g0n1n62"
+}, 
+"g0n1eg0n1n77": {
+"@length": "0.006486", 
+"@source": "g0n1n61", 
+"@target": "g0n1n77"
+}
+}, 
+"g0n1n62": {
+"g0n1eg0n1n63": {
+"@length": "0.018163", 
+"@source": "g0n1n62", 
+"@target": "g0n1n63"
+}, 
+"g0n1eg0n1n66": {
+"@length": "0.011398", 
+"@source": "g0n1n62", 
+"@target": "g0n1n66"
+}
+}, 
+"g0n1n63": {
+"g0n1eg0n1n64": {
+"@length": "0.069728", 
+"@source": "g0n1n63", 
+"@target": "g0n1n64"
+}, 
+"g0n1eg0n1n65": {
+"@length": "0.090272", 
+"@source": "g0n1n63", 
+"@target": "g0n1n65"
+}
+}, 
+"g0n1n66": {
+"g0n1eg0n1n67": {
+"@length": "0.000115", 
+"@source": "g0n1n66", 
+"@target": "g0n1n67"
+}, 
+"g0n1eg0n1n76": {
+"@length": "0.171371", 
+"@source": "g0n1n66", 
+"@target": "g0n1n76"
+}
+}, 
+"g0n1n67": {
+"g0n1eg0n1n68": {
+"@length": "0.015714", 
+"@source": "g0n1n67", 
+"@target": "g0n1n68"
+}, 
+"g0n1eg0n1n75": {
+"@length": "0.056941", 
+"@source": "g0n1n67", 
+"@target": "g0n1n75"
+}
+}, 
+"g0n1n68": {
+"g0n1eg0n1n69": {
+"@length": "0.138901", 
+"@source": "g0n1n68", 
+"@target": "g0n1n69"
+}, 
+"g0n1eg0n1n74": {
+"@length": "0.123113", 
+"@source": "g0n1n68", 
+"@target": "g0n1n74"
+}
+}, 
+"g0n1n69": {
+"g0n1eg0n1n70": {
+"@length": "0.018406", 
+"@source": "g0n1n69", 
+"@target": "g0n1n70"
+}, 
+"g0n1eg0n1n71": {
+"@length": "0.005609", 
+"@source": "g0n1n69", 
+"@target": "g0n1n71"
+}
+}, 
+"g0n1n71": {
+"g0n1eg0n1n72": {
+"@length": "0.007026", 
+"@source": "g0n1n71", 
+"@target": "g0n1n72"
+}, 
+"g0n1eg0n1n73": {
+"@length": "0.004468", 
+"@source": "g0n1n71", 
+"@target": "g0n1n73"
+}
+}, 
+"g0n1n77": {
+"g0n1eg0n1n101": {
+"@length": "0.030851", 
+"@source": "g0n1n77", 
+"@target": "g0n1n101"
+}, 
+"g0n1eg0n1n102": {
+"@length": "0.039562", 
+"@source": "g0n1n77", 
+"@target": "g0n1n102"
+}, 
+"g0n1eg0n1n78": {
+"@length": "0.007613", 
+"@source": "g0n1n77", 
+"@target": "g0n1n78"
+}
+}, 
+"g0n1n78": {
+"g0n1eg0n1n79": {
+"@length": "0.008895", 
+"@source": "g0n1n78", 
+"@target": "g0n1n79"
+}, 
+"g0n1eg0n1n94": {
+"@length": "0.086179", 
+"@source": "g0n1n78", 
+"@target": "g0n1n94"
+}
+}, 
+"g0n1n79": {
+"g0n1eg0n1n80": {
+"@length": "0.05812", 
+"@source": "g0n1n79", 
+"@target": "g0n1n80"
+}, 
+"g0n1eg0n1n83": {
+"@length": "0.014453", 
+"@source": "g0n1n79", 
+"@target": "g0n1n83"
+}
+}, 
+"g0n1n80": {
+"g0n1eg0n1n81": {
+"@length": "0.009392", 
+"@source": "g0n1n80", 
+"@target": "g0n1n81"
+}, 
+"g0n1eg0n1n82": {
+"@length": "0.002803", 
+"@source": "g0n1n80", 
+"@target": "g0n1n82"
+}
+}, 
+"g0n1n83": {
+"g0n1eg0n1n84": {
+"@length": "0.004121", 
+"@source": "g0n1n83", 
+"@target": "g0n1n84"
+}, 
+"g0n1eg0n1n91": {
+"@length": "0.111854", 
+"@source": "g0n1n83", 
+"@target": "g0n1n91"
+}
+}, 
+"g0n1n84": {
+"g0n1eg0n1n85": {
+"@length": "0.008327", 
+"@source": "g0n1n84", 
+"@target": "g0n1n85"
+}, 
+"g0n1eg0n1n90": {
+"@length": "0.124746", 
+"@source": "g0n1n84", 
+"@target": "g0n1n90"
+}
+}, 
+"g0n1n85": {
+"g0n1eg0n1n86": {
+"@length": "0.141131", 
+"@source": "g0n1n85", 
+"@target": "g0n1n86"
+}, 
+"g0n1eg0n1n89": {
+"@length": "0.11504", 
+"@source": "g0n1n85", 
+"@target": "g0n1n89"
+}
+}, 
+"g0n1n86": {
+"g0n1eg0n1n87": {
+"@length": "0.011215", 
+"@source": "g0n1n86", 
+"@target": "g0n1n87"
+}, 
+"g0n1eg0n1n88": {
+"@length": "0.000834", 
+"@source": "g0n1n86", 
+"@target": "g0n1n88"
+}
+}, 
+"g0n1n9": {
+"g0n1eg0n1n10": {
+"@length": "0.011652", 
+"@source": "g0n1n9", 
+"@target": "g0n1n10"
+}, 
+"g0n1eg0n1n155": {
+"@length": "0.045045", 
+"@source": "g0n1n9", 
+"@target": "g0n1n155"
+}, 
+"g0n1eg0n1n156": {
+"@length": "0.049118", 
+"@source": "g0n1n9", 
+"@target": "g0n1n156"
+}, 
+"g0n1eg0n1n157": {
+"@length": "0.038786", 
+"@source": "g0n1n9", 
+"@target": "g0n1n157"
+}, 
+"g0n1eg0n1n163": {
+"@length": "0.007258", 
+"@source": "g0n1n9", 
+"@target": "g0n1n163"
+}
+}, 
+"g0n1n91": {
+"g0n1eg0n1n92": {
+"@length": "0.005744", 
+"@source": "g0n1n91", 
+"@target": "g0n1n92"
+}, 
+"g0n1eg0n1n93": {
+"@length": "0.00575", 
+"@source": "g0n1n91", 
+"@target": "g0n1n93"
+}
+}, 
+"g0n1n94": {
+"g0n1eg0n1n100": {
+"@length": "0.036977", 
+"@source": "g0n1n94", 
+"@target": "g0n1n100"
+}, 
+"g0n1eg0n1n95": {
+"@length": "0.021339", 
+"@source": "g0n1n94", 
+"@target": "g0n1n95"
+}
+}, 
+"g0n1n95": {
+"g0n1eg0n1n96": {
+"@length": "0.023469", 
+"@source": "g0n1n95", 
+"@target": "g0n1n96"
+}, 
+"g0n1eg0n1n97": {
+"@length": "0.013116", 
+"@source": "g0n1n95", 
+"@target": "g0n1n97"
+}
+}, 
+"g0n1n97": {
+"g0n1eg0n1n98": {
+"@length": "0.005521", 
+"@source": "g0n1n97", 
+"@target": "g0n1n98"
+}, 
+"g0n1eg0n1n99": {
+"@length": "0.006674", 
+"@source": "g0n1n97", 
+"@target": "g0n1n99"
+}
+}
+}, 
+"nodeById": {
+"g0n1n0": {
+"@root": true
+}, 
+"g0n1n1": {
+"@otu": "t0n0"
+}, 
+"g0n1n10": {}, 
+"g0n1n100": {
+"@otu": "t0n46"
+}, 
+"g0n1n101": {
+"@otu": "t0n60"
+}, 
+"g0n1n102": {}, 
+"g0n1n103": {
+"@otu": "t0n74"
+}, 
+"g0n1n104": {
+"@otu": "t0n75"
+}, 
+"g0n1n105": {}, 
+"g0n1n106": {
+"@otu": "t0n35"
+}, 
+"g0n1n107": {}, 
+"g0n1n108": {}, 
+"g0n1n109": {
+"@otu": "t0n52"
+}, 
+"g0n1n11": {}, 
+"g0n1n110": {}, 
+"g0n1n111": {}, 
+"g0n1n112": {
+"@otu": "t0n66"
+}, 
+"g0n1n113": {
+"@otu": "t0n68"
+}, 
+"g0n1n114": {
+"@otu": "t0n69"
+}, 
+"g0n1n115": {}, 
+"g0n1n116": {}, 
+"g0n1n117": {
+"@otu": "t0n61"
+}, 
+"g0n1n118": {}, 
+"g0n1n119": {
+"@otu": "t0n62"
+}, 
+"g0n1n12": {}, 
+"g0n1n120": {
+"@otu": "t0n63"
+}, 
+"g0n1n121": {
+"@otu": "t0n67"
+}, 
+"g0n1n122": {}, 
+"g0n1n123": {
+"@otu": "t0n58"
+}, 
+"g0n1n124": {
+"@otu": "t0n59"
+}, 
+"g0n1n125": {
+"@otu": "t0n76"
+}, 
+"g0n1n126": {}, 
+"g0n1n127": {}, 
+"g0n1n128": {}, 
+"g0n1n129": {
+"@otu": "t0n36"
+}, 
+"g0n1n13": {}, 
+"g0n1n130": {}, 
+"g0n1n131": {}, 
+"g0n1n132": {
+"@otu": "t0n37"
+}, 
+"g0n1n133": {
+"@otu": "t0n38"
+}, 
+"g0n1n134": {
+"@otu": "t0n39"
+}, 
+"g0n1n135": {
+"@otu": "t0n40"
+}, 
+"g0n1n136": {}, 
+"g0n1n137": {
+"@otu": "t0n41"
+}, 
+"g0n1n138": {
+"@otu": "t0n42"
+}, 
+"g0n1n139": {}, 
+"g0n1n14": {}, 
+"g0n1n140": {
+"@otu": "t0n71"
+}, 
+"g0n1n141": {
+"@otu": "t0n72"
+}, 
+"g0n1n142": {
+"@otu": "t0n86"
+}, 
+"g0n1n143": {}, 
+"g0n1n144": {}, 
+"g0n1n145": {
+"@otu": "t0n77"
+}, 
+"g0n1n146": {
+"@otu": "t0n79"
+}, 
+"g0n1n147": {}, 
+"g0n1n148": {
+"@otu": "t0n78"
+}, 
+"g0n1n149": {}, 
+"g0n1n15": {}, 
+"g0n1n150": {
+"@otu": "t0n80"
+}, 
+"g0n1n151": {
+"@otu": "t0n84"
+}, 
+"g0n1n152": {}, 
+"g0n1n153": {
+"@otu": "t0n81"
+}, 
+"g0n1n154": {
+"@otu": "t0n82"
+}, 
+"g0n1n155": {
+"@otu": "t0n7"
+}, 
+"g0n1n156": {
+"@otu": "t0n8"
+}, 
+"g0n1n157": {}, 
+"g0n1n158": {
+"@otu": "t0n9"
+}, 
+"g0n1n159": {}, 
+"g0n1n16": {}, 
+"g0n1n160": {
+"@otu": "t0n10"
+}, 
+"g0n1n161": {
+"@otu": "t0n12"
+}, 
+"g0n1n162": {
+"@otu": "t0n11"
+}, 
+"g0n1n163": {}, 
+"g0n1n164": {}, 
+"g0n1n165": {
+"@otu": "t0n85"
+}, 
+"g0n1n166": {
+"@otu": "t0n87"
+}, 
+"g0n1n167": {
+"@otu": "t0n88"
+}, 
+"g0n1n17": {
+"@otu": "t0n5"
+}, 
+"g0n1n18": {
+"@otu": "t0n6"
+}, 
+"g0n1n19": {
+"@otu": "t0n14"
+}, 
+"g0n1n2": {}, 
+"g0n1n20": {
+"@otu": "t0n13"
+}, 
+"g0n1n21": {}, 
+"g0n1n22": {}, 
+"g0n1n23": {}, 
+"g0n1n24": {}, 
+"g0n1n25": {
+"@otu": "t0n15"
+}, 
+"g0n1n26": {
+"@otu": "t0n19"
+}, 
+"g0n1n27": {}, 
+"g0n1n28": {
+"@otu": "t0n17"
+}, 
+"g0n1n29": {
+"@otu": "t0n18"
+}, 
+"g0n1n3": {}, 
+"g0n1n30": {
+"@otu": "t0n16"
+}, 
+"g0n1n31": {}, 
+"g0n1n32": {}, 
+"g0n1n33": {
+"@otu": "t0n20"
+}, 
+"g0n1n34": {
+"@otu": "t0n25"
+}, 
+"g0n1n35": {
+"@otu": "t0n21"
+}, 
+"g0n1n36": {}, 
+"g0n1n37": {
+"@otu": "t0n26"
+}, 
+"g0n1n38": {}, 
+"g0n1n39": {
+"@otu": "t0n27"
+}, 
+"g0n1n4": {
+"@otu": "t0n1"
+}, 
+"g0n1n40": {
+"@otu": "t0n28"
+}, 
+"g0n1n41": {}, 
+"g0n1n42": {}, 
+"g0n1n43": {
+"@otu": "t0n22"
+}, 
+"g0n1n44": {
+"@otu": "t0n23"
+}, 
+"g0n1n45": {
+"@otu": "t0n24"
+}, 
+"g0n1n46": {}, 
+"g0n1n47": {}, 
+"g0n1n48": {}, 
+"g0n1n49": {}, 
+"g0n1n5": {
+"@otu": "t0n2"
+}, 
+"g0n1n50": {
+"@otu": "t0n29"
+}, 
+"g0n1n51": {
+"@otu": "t0n30"
+}, 
+"g0n1n52": {}, 
+"g0n1n53": {}, 
+"g0n1n54": {
+"@otu": "t0n31"
+}, 
+"g0n1n55": {
+"@otu": "t0n32"
+}, 
+"g0n1n56": {
+"@otu": "t0n33"
+}, 
+"g0n1n57": {}, 
+"g0n1n58": {}, 
+"g0n1n59": {}, 
+"g0n1n6": {}, 
+"g0n1n60": {}, 
+"g0n1n61": {}, 
+"g0n1n62": {}, 
+"g0n1n63": {}, 
+"g0n1n64": {
+"@otu": "t0n34"
+}, 
+"g0n1n65": {
+"@otu": "t0n56"
+}, 
+"g0n1n66": {}, 
+"g0n1n67": {}, 
+"g0n1n68": {}, 
+"g0n1n69": {}, 
+"g0n1n7": {
+"@otu": "t0n3"
+}, 
+"g0n1n70": {
+"@otu": "t0n53"
+}, 
+"g0n1n71": {}, 
+"g0n1n72": {
+"@otu": "t0n54"
+}, 
+"g0n1n73": {
+"@otu": "t0n55"
+}, 
+"g0n1n74": {
+"@otu": "t0n83"
+}, 
+"g0n1n75": {
+"@otu": "t0n73"
+}, 
+"g0n1n76": {
+"@otu": "t0n70"
+}, 
+"g0n1n77": {}, 
+"g0n1n78": {}, 
+"g0n1n79": {}, 
+"g0n1n8": {
+"@otu": "t0n4"
+}, 
+"g0n1n80": {}, 
+"g0n1n81": {
+"@otu": "t0n43"
+}, 
+"g0n1n82": {
+"@otu": "t0n44"
+}, 
+"g0n1n83": {}, 
+"g0n1n84": {}, 
+"g0n1n85": {}, 
+"g0n1n86": {}, 
+"g0n1n87": {
+"@otu": "t0n49"
+}, 
+"g0n1n88": {
+"@otu": "t0n50"
+}, 
+"g0n1n89": {
+"@otu": "t0n57"
+}, 
+"g0n1n9": {}, 
+"g0n1n90": {
+"@otu": "t0n51"
+}, 
+"g0n1n91": {}, 
+"g0n1n92": {
+"@otu": "t0n64"
+}, 
+"g0n1n93": {
+"@otu": "t0n65"
+}, 
+"g0n1n94": {}, 
+"g0n1n95": {}, 
+"g0n1n96": {
+"@otu": "t0n45"
+}, 
+"g0n1n97": {}, 
+"g0n1n98": {
+"@otu": "t0n47"
+}, 
+"g0n1n99": {
+"@otu": "t0n48"
+}
+}
+}
+}
+}, 
 "trees9": {
 "@otus": "otus9", 
 "^ot:treeElementOrder": [
