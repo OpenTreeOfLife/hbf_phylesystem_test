@@ -1,5 +1,5 @@
 {
-"^zcount": 4, 
+"^zcount": 5, 
 "nexml": {
 "@generator": "Phylografter nexml-json exporter", 
 "@id": "study", 
@@ -89,7 +89,8 @@
 "^zcount"
 ], 
 "refersTo": {
-"@idref": "study"
+"@idref": "study", 
+"@top": "nexml"
 }
 }, 
 {
@@ -100,7 +101,10 @@
 "^ot:branchLengthTimeUnit"
 ], 
 "refersTo": {
-"@idref": "tree5885"
+"@idref": "tree5885", 
+"@top": "trees", 
+"@treeID": "tree5885", 
+"@treesID": "tree5885"
 }
 }, 
 {
