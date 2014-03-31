@@ -192,8 +192,7 @@
 "^ot:studyYear": 2007, 
 "^ot:tag": [
 "test", 
-"foo", 
-"baz"
+"foo"
 ], 
 "^ot:treesElementOrder": [
 "trees10"
