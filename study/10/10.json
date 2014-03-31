@@ -12,9 +12,184 @@
 "xsd": "http://www.w3.org/2001/XMLSchema#", 
 "xsi": "http://www.w3.org/2001/XMLSchema-instance"
 }, 
-"^ot:curatorName": "Rick Ree", 
+"^ot:agents": {
+"agent": [
+{
+"@description": "Web-based interface for submitting, editing, and reviewing studies in the Open Tree of Life project.", 
+"@id": "opentree-curation-webapp", 
+"@name": "OpenTree curation webapp", 
+"@url": "https://github.com/OpenTreeOfLife/opentree", 
+"@version": "0.0.0"
+}, 
+{
+"@description": "Open Tree NexSON validation", 
+"@id": "peyotl-validator", 
+"@name": "api.opentreeoflife.org/validate", 
+"@url": "https://github.com/OpenTreeOfLife/peyotl", 
+"@version": "0.0.3a", 
+"invocation": {
+"checksPerformed": [
+"MISSING_MANDATORY_KEY", 
+"MISSING_OPTIONAL_KEY", 
+"UNRECOGNIZED_KEY", 
+"MISSING_LIST_EXPECTED", 
+"DUPLICATING_SINGLETON_KEY", 
+"REFERENCED_ID_NOT_FOUND", 
+"REPEATED_ID", 
+"REPEATED_OTU", 
+"MULTIPLE_ROOT_NODES", 
+"NO_ROOT_NODE", 
+"MULTIPLE_EDGES_FOR_NODES", 
+"CYCLE_DETECTED", 
+"DISCONNECTED_GRAPH_DETECTED", 
+"INCORRECT_ROOT_NODE_LABEL", 
+"TIP_WITHOUT_OTU", 
+"TIP_WITHOUT_OTT_ID", 
+"MULTIPLE_TIPS_MAPPED_TO_OTT_ID", 
+"NON_MONOPHYLETIC_TIPS_MAPPED_TO_OTT_ID", 
+"INVALID_PROPERTY_VALUE", 
+"PROPERTY_VALUE_NOT_USEFUL", 
+"UNRECOGNIZED_PROPERTY_VALUE", 
+"MULTIPLE_TREES", 
+"UNRECOGNIZED_TAG", 
+"CONFLICTING_PROPERTY_VALUES", 
+"NO_TREES", 
+"DEPRECATED_PROPERTY", 
+"UNPARSEABLE_META", 
+"UNREACHABLE_NODE", 
+"INCORRECT_VALUE_TYPE", 
+"MISSING_CRUCIAL_CONTENT"
+], 
+"commandLine": [], 
+"otherProperty": [
+{
+"name": "pythonVersion", 
+"value": "2.7.3"
+}, 
+{
+"name": "pythonImplementation", 
+"value": "CPython"
+}
+]
+}
+}
+]
+}, 
+"^ot:annotationEvents": {
+"annotation": [
+{
+"@description": "Open Tree NexSON validation", 
+"@id": "peyotl-validator-event", 
+"@passedChecks": true, 
+"@preserve": false, 
+"@wasAssociatedWithAgentId": "peyotl-validator", 
+"message": [
+{
+"@code": "MISSING_OPTIONAL_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:dataDeposit"
+], 
+"refersTo": {
+"@idref": "study", 
+"@top": "nexml"
+}
+}, 
+{
+"@code": "MISSING_OPTIONAL_KEY", 
+"@severity": "WARNING", 
+"data": [
+"^ot:branchLengthTimeUnit"
+], 
+"refersTo": {
+"@idref": "tree3", 
+"@top": "trees", 
+"@treeID": "tree3", 
+"@treesID": "tree3"
+}
+}
+]
+}, 
+{
+"@dateCreated": "2014-03-31T21:17:05.132Z", 
+"@description": "Aids for mapping study OTUs to OTT taxa", 
+"@id": "otu-mapping-hints", 
+"@passedChecks": true, 
+"@preserve": true, 
+"@wasAssociatedWithAgentId": "opentree-curation-webapp", 
+"message": [
+{
+"@code": "OTU_MAPPING_HINTS", 
+"@humanMessageType": "NONE", 
+"@severity": "INFO", 
+"data": {
+"searchContext": {
+"$": "All life"
+}, 
+"substitutions": {
+"substitution": [
+{
+"@active": false, 
+"@valid": true, 
+"new": {
+"$": ""
+}, 
+"old": {
+"$": ""
+}
+}
+]
+}
+}, 
+"refersTo": {
+"@top": {
+"$": "meta"
+}
+}
+}
+]
+}, 
+{
+"@dateCreated": "2014-03-31T21:17:05.132Z", 
+"@description": "Describes supporting data files for this study", 
+"@id": "supporting-files-metadata", 
+"@passedChecks": true, 
+"@preserve": true, 
+"@wasAssociatedWithAgentId": "opentree-curation-webapp", 
+"message": [
+{
+"@code": "SUPPORTING_FILE_INFO", 
+"@humanMessageType": "NONE", 
+"@severity": "INFO", 
+"data": {
+"@movedToPermanentArchive": false, 
+"files": {
+"file": []
+}
+}, 
+"refersTo": {
+"@top": {
+"$": "meta"
+}
+}
+}
+]
+}
+]
+}, 
+"^ot:candidateTreeForSynthesis": {
+"candidate": []
+}, 
+"^ot:curatorName": [
+"Rick Ree", 
+"Jim Allman"
+], 
 "^ot:focalClade": 177637, 
 "^ot:focalCladeOTTTaxonName": "Magnoliophyta", 
+"^ot:messages": {
+"message": []
+}, 
+"^ot:notIntendedForSynthesis": false, 
 "^ot:otusElementOrder": [
 "otus10"
 ], 
@@ -24,6 +199,9 @@
 }, 
 "^ot:studyPublicationReference": "Jansen, Robert K., Zhengqiu Cai, Linda A. Raubeson, Henry Daniell, Claude W. dePamphilis, James Leebens-Mack, Kai F. M\u00fcller, et al. 2007. Analysis of 81 genes from 64 plastid genomes resolves relationships in angiosperms and identifies genome-scale evolutionary patterns. Proceedings of the National Academy of Sciences 104, no. 49 (December 4): 19369 -19374. doi:10.1073/pnas.0709121104.", 
 "^ot:studyYear": 2007, 
+"^ot:tag": [
+"test"
+], 
 "^ot:treesElementOrder": [
 "trees10"
 ], 
@@ -425,11 +603,18 @@
 ], 
 "treeById": {
 "tree3": {
+"@label": "Untitled (tree3)", 
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "ML bootstrap consensus", 
 "^ot:inGroupClade": "node510", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node505", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
+"^ot:unrootedTree": true, 
 "edgeBySourceId": {
 "node505": {
 "edge506": {
