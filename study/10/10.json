@@ -168,9 +168,7 @@
 }
 ]
 }, 
-"^ot:candidateTreeForSynthesis": {
-"candidate": []
-}, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": [
 "Rick Ree", 
 "Jim Allman"
