@@ -1,5 +1,5 @@
 {
-"^zcount": 12, 
+"^zcount": 13, 
 "nexml": {
 "@generator": "Phylografter nexml-json exporter", 
 "@id": "study", 
@@ -71,55 +71,7 @@
 ]
 }, 
 "^ot:annotationEvents": {
-"annotation": [
-{
-"@description": "Open Tree NexSON validation", 
-"@id": "peyotl-validator-event", 
-"@passedChecks": true, 
-"@preserve": false, 
-"@wasAssociatedWithAgentId": "peyotl-validator", 
-"message": [
-{
-"@code": "UNRECOGNIZED_KEY", 
-"@severity": "WARNING", 
-"data": [
-"^acount", 
-"^ot:agents", 
-"^ot:annotationEvents", 
-"^zcount"
-], 
-"refersTo": {
-"@idref": "study", 
-"@top": "nexml"
-}
-}, 
-{
-"@code": "MISSING_OPTIONAL_KEY", 
-"@severity": "WARNING", 
-"data": [
-"^ot:branchLengthMode", 
-"^ot:branchLengthTimeUnit"
-], 
-"refersTo": {
-"@idref": "tree5885", 
-"@top": "trees", 
-"@treeID": "tree5885", 
-"@treesID": "tree5885"
-}
-}, 
-{
-"@code": "UNRECOGNIZED_KEY", 
-"@severity": "WARNING", 
-"data": [
-"^zcount"
-], 
-"refersTo": {
-"@top": ""
-}
-}
-]
-}
-]
+"annotation": []
 }, 
 "^ot:curatorName": "William Wysocki", 
 "^ot:dataDeposit": {
