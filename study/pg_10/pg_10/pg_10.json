@@ -12,6 +12,7 @@
 "xsd": "http://www.w3.org/2001/XMLSchema#", 
 "xsi": "http://www.w3.org/2001/XMLSchema-instance"
 }, 
+"^bogus_timestamp": "2014-05-04T18:59:47.644976", 
 "^ot:agents": {
 "agent": [
 {
